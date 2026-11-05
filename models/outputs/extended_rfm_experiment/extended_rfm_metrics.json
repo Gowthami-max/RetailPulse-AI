@@ -1,0 +1,22 @@
+{
+    "Traditional_RFM": {
+        "best_clusters": 2,
+        "silhouette_score": 0.36507978528446255,
+        "features": [
+            "days_since_last_purchase",
+            "order_count",
+            "total_spend"
+        ]
+    },
+    "Extended_RFM": {
+        "best_clusters": 2,
+        "silhouette_score": 0.3671071103054683,
+        "features": [
+            "days_since_last_purchase",
+            "order_count",
+            "total_spend",
+            "avg_order_value",
+            "purchase_duration_days"
+        ]
+    }
+}

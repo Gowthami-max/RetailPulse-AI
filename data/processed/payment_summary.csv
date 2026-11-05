@@ -1,0 +1,19 @@
+payment_method,payment_status,transaction_count,amount
+Cash on Delivery,Failed,302,42863.96
+Cash on Delivery,Paid,7527,1044351.31
+Cash on Delivery,Refunded,314,45518.35
+Credit Card,Failed,347,50446.82
+Credit Card,Paid,7651,1053852.12
+Credit Card,Refunded,365,52935.44
+Debit Card,Failed,358,46584.96
+Debit Card,Paid,7738,1072293.58
+Debit Card,Refunded,328,37300.88
+Net Banking,Failed,320,47091.96
+Net Banking,Paid,7772,1064491.24
+Net Banking,Refunded,295,39274.06
+UPI,Failed,295,41767.09
+UPI,Paid,7650,1046624.01
+UPI,Refunded,339,47916.34
+Wallet,Failed,319,46473.21
+Wallet,Paid,7751,1060473.49
+Wallet,Refunded,329,49444.14

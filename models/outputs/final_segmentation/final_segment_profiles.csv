@@ -1,0 +1,7 @@
+cluster,customer_segment,customer_count,average_recency,median_recency,average_frequency,median_frequency,average_spending,median_spending,average_order_value,customer_percentage
+0,Hibernating Customers,723,455.58,419.0,1.47,1.0,108.45,102.95,83.17,7.31
+1,At-Risk Customers,1809,363.44,320.0,2.73,3.0,310.95,289.37,127.35,18.28
+2,Recent Customers,1445,55.06,52.0,3.91,4.0,434.78,415.75,117.05,14.6
+3,High-Value Loyalists,2401,135.37,109.0,6.98,7.0,1070.39,1000.71,157.97,24.27
+4,Champions,975,12.84,11.0,6.31,6.0,877.12,803.97,142.01,9.85
+5,Potential Loyalists,2541,290.64,255.0,4.54,5.0,648.44,601.71,152.18,25.68

@@ -1,0 +1,18 @@
+{
+    "INR": {
+        "training_days": 1008,
+        "testing_days": 30,
+        "forecast_days": 30,
+        "MAE": 808.2346266911326,
+        "RMSE": 1259.4393639005254,
+        "MAPE_percent": 24.035081679323973
+    },
+    "USD": {
+        "training_days": 1008,
+        "testing_days": 30,
+        "forecast_days": 30,
+        "MAE": 660.3587762488455,
+        "RMSE": 1289.619196774518,
+        "MAPE_percent": 28.506439319129633
+    }
+}

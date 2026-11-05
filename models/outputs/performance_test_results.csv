@@ -1,0 +1,9 @@
+File,Rows,Columns,Processing_Time_Seconds,Status
+orders.csv,50000,25,0.4305,SUCCESS
+order_items.csv,88339,16,0.6227,SUCCESS
+customers.csv,10000,11,0.0498,SUCCESS
+products.csv,1000,9,0.0084,SUCCESS
+payments.csv,50000,9,0.2227,SUCCESS
+shipments.csv,50000,9,0.2116,SUCCESS
+returns.csv,2394,9,0.0237,SUCCESS
+inventory_snapshot.csv,1000,14,0.0132,SUCCESS

@@ -1,0 +1,7 @@
+Currency,Model,Folds,Forecast_Weeks,MAE,RMSE,MAPE_Percent,WAPE_Percent,MAPE_Target_12_Percent
+INR,Random Forest,5,40,1730.68,2331.33,7.86,7.97,Met
+INR,Prophet,5,40,1908.9,2585.07,8.53,8.79,Met
+INR,Seasonal Naive,5,40,2663.86,3344.95,12.31,12.26,Not Met
+USD,Random Forest,5,40,1774.92,2235.8,12.87,12.79,Not Met
+USD,Prophet,5,40,1854.73,2335.43,13.97,13.36,Not Met
+USD,Seasonal Naive,5,40,2648.82,3289.1,19.62,19.08,Not Met

@@ -1,0 +1,3 @@
+cluster,customer_count,avg_recency,avg_frequency,avg_monetary,avg_order_value,avg_purchase_duration
+0,6112,138.6,5.84,843.94,148.72,732.79
+1,3782,342.5,2.75,313.04,120.34,407.46

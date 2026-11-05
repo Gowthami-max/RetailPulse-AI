@@ -1,0 +1,92 @@
+[
+    {
+        "table": "campaigns",
+        "rows": 4,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "cleaned_all_transactions",
+        "rows": 88339,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "country_sales_summary",
+        "rows": 5,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "customers",
+        "rows": 10000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "customer_analytics_rfm",
+        "rows": 10000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "daily_sales_summary",
+        "rows": 1038,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "inventory_snapshot",
+        "rows": 1000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "live_transactions_seed",
+        "rows": 500,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "monthly_sales_summary",
+        "rows": 35,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "orders",
+        "rows": 50000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "order_items",
+        "rows": 88339,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "payments",
+        "rows": 50000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "payment_summary",
+        "rows": 18,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "products",
+        "rows": 1000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "product_performance",
+        "rows": 1000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "returns",
+        "rows": 2394,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "shipments",
+        "rows": 50000,
+        "status": "SUCCESS"
+    },
+    {
+        "table": "transactions_flat",
+        "rows": 88339,
+        "status": "SUCCESS"
+    }
+]

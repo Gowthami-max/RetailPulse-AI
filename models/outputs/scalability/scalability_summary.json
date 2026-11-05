@@ -1,0 +1,14 @@
+{
+    "benchmark": "RetailPulse 10 Million Transaction Test",
+    "test_date": "2026-11-04T16:23:45.147380",
+    "total_transactions": 10000000,
+    "batch_size": 500000,
+    "number_of_batches": 20,
+    "total_revenue": 75151275292.89,
+    "total_quantity": 30000304,
+    "processing_time_seconds": 33.3,
+    "processing_time_minutes": 0.56,
+    "output_file_size_mb": 367.7,
+    "transactions_per_second": 300283.76,
+    "benchmark_environment": "Local Windows machine"
+}

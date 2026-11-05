@@ -1,0 +1,14 @@
+{
+  "customers": 10000,
+  "products": 1000,
+  "orders": 50000,
+  "order_items": 88339,
+  "payments": 50000,
+  "shipments": 50000,
+  "returns": 2394,
+  "unique_customer_ids": 10000,
+  "all_order_customer_ids_valid": true,
+  "all_item_order_ids_valid": true,
+  "date_min": "2024-01-01",
+  "date_max": "2026-11-03"
+}

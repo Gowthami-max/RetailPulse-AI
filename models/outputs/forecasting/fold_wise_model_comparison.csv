@@ -1,0 +1,16 @@
+Fold,Model,MAPE
+1,Prophet,9.2113
+1,LSTM,7.8184
+1,90% LSTM + 10% Prophet,7.553
+2,Prophet,13.027
+2,LSTM,13.3464
+2,90% LSTM + 10% Prophet,13.3145
+3,Prophet,27.1771
+3,LSTM,17.5954
+3,90% LSTM + 10% Prophet,18.4716
+4,Prophet,12.0302
+4,LSTM,10.528
+4,90% LSTM + 10% Prophet,10.3824
+5,Prophet,8.3912
+5,LSTM,11.6503
+5,90% LSTM + 10% Prophet,11.2659

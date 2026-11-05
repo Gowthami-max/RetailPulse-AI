@@ -1,0 +1,7 @@
+Currency,Model,MAE,RMSE,MAPE_Percent,WAPE_Percent
+INR,Seasonal Naive,1439.47,1959.6,6.33,6.26
+INR,Random Forest,1923.35,2827.27,7.74,8.37
+INR,Prophet,1825.47,2756.61,7.21,7.94
+USD,Seasonal Naive,2124.34,2406.52,15.45,15.6
+USD,Random Forest,1479.47,1622.96,11.01,10.87
+USD,Prophet,1108.83,1217.35,8.39,8.14

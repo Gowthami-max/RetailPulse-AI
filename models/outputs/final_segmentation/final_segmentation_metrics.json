@@ -1,0 +1,24 @@
+{
+    "total_customers": 10000,
+    "customers_with_purchases": 9894,
+    "customers_without_purchases": 106,
+    "algorithm": "K-Means",
+    "number_of_clusters": 6,
+    "features": [
+        "days_since_last_purchase",
+        "order_count",
+        "total_spend"
+    ],
+    "silhouette_score": 0.2636313371086988,
+    "davies_bouldin_score": 1.0595821878938005,
+    "calinski_harabasz_score": 5513.966374285979,
+    "cluster_sizes": {
+        "0": 723,
+        "1": 1809,
+        "2": 1445,
+        "3": 2401,
+        "4": 975,
+        "5": 2541
+    },
+    "random_state": 42
+}

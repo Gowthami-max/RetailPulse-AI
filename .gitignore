@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache and logs
+*.log
+.pytest_cache/
+.streamlit/cache/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated benchmark output
+models/outputs/scalability/scalability_10m_results.csv
+
+# Local MLflow tracking artifacts
+models/mlartifacts/

@@ -1,0 +1,5 @@
+inventory_risk,product_count,total_stock,inventory_value,reorder_products
+Critical,45,1311,34457.31,45
+Healthy,852,598436,16177175.0,14
+Low Stock,41,3727,78358.29,41
+Moderate,62,9743,233532.41,17

@@ -1,0 +1,8 @@
+Currency,Model,Folds,Forecast_Weeks,MAE,RMSE,MAPE_Percent,WAPE_Percent,MAPE_Target_12_Percent
+USD,RF_Baseline,5,40,1776.88,2241.65,12.97,12.8,Not Met
+USD,RF_Regularized,5,40,1777.96,2234.61,12.97,12.81,Not Met
+USD,RF_Deep,5,40,1798.41,2268.16,13.1,12.96,Not Met
+USD,Prophet,5,40,1854.73,2335.43,13.97,13.36,Not Met
+USD,Extra_Trees,5,40,1909.27,2335.25,14.14,13.75,Not Met
+USD,Hist_Gradient_Boosting,5,40,1971.64,2522.06,14.34,14.2,Not Met
+USD,Seasonal Naive,5,40,2648.82,3289.1,19.62,19.08,Not Met

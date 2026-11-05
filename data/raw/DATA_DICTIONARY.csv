@@ -1,0 +1,19 @@
+file,purpose
+customers.csv,Customer profiles and synthetic contact attributes
+products.csv,"Product catalog, SKU, category, brand, price, cost, supplier"
+orders.csv,"Order/invoice headers, dates, channel, status, totals"
+order_items.csv,"Line-level purchase details, quantity, discount, tax, cost"
+payments.csv,"Payment method, transaction reference, status, amount"
+shipments.csv,"Carrier, tracking number, delivery status"
+returns.csv,"Return details, reason, refund"
+inventory_snapshot.csv,Synthetic stock snapshot and reorder metrics
+campaigns.csv,Campaign metadata
+transactions_flat.csv,Joined line-item fact table for dashboard
+customer_analytics_rfm.csv,"Customer spend, frequency, recency and segment"
+product_performance.csv,Product sales and estimated profit
+country_sales_summary.csv,Country-level summary
+daily_sales_summary.csv,Daily summary
+monthly_sales_summary.csv,Monthly summary
+payment_summary.csv,Payment summary
+live_transactions_seed.csv,Recent synthetic rows for simulated-live demo
+cleaned_all_transactions.csv,Compatibility fact table with familiar legacy column names

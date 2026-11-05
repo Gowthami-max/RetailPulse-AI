@@ -1,0 +1,11 @@
+{
+    "accuracy": 0.6462860030318343,
+    "precision": 0.6141367323290846,
+    "recall": 0.5908584169453734,
+    "f1_score": 0.6022727272727273,
+    "roc_auc": 0.686521306387898,
+    "training_customers": 7915,
+    "testing_customers": 1979,
+    "inactivity_threshold_days": 180,
+    "target_definition": "180 or more days since last purchase"
+}

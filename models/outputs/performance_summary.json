@@ -1,0 +1,9 @@
+{
+    "test_name": "RetailPulse CSV Processing Benchmark",
+    "test_date": "2026-11-04T16:21:48.753927",
+    "total_files_processed": 8,
+    "total_processing_time_seconds": 1.587,
+    "total_processing_time_minutes": 0.026,
+    "target_seconds": 300,
+    "target_met": true
+}

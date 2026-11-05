@@ -1,0 +1,5 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget
+CAMP001,Festive Sale,Email,2025-10-01,2025-11-15,250000
+CAMP002,Summer Sale,App,2026-04-01,2026-05-31,180000
+CAMP003,Welcome Offer,Website,2024-01-01,2026-12-31,120000
+CAMP004,Loyalty Rewards,Email,2024-06-01,2026-12-31,90000

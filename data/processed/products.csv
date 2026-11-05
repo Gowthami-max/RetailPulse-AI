@@ -1,0 +1,1001 @@
+product_id,sku,product_name,category,brand,list_price,unit_cost,supplier_id,product_status
+PROD00001,SKU-000001,UrbanLeaf Books Item 1,Books,Brand D,7.67,4.1,SUP0014,Active
+PROD00002,SKU-000002,UrbanLeaf Books Item 2,Books,Brand C,20.47,8.92,SUP0079,Active
+PROD00003,SKU-000003,UrbanLeaf Toys Item 3,Toys,Brand D,22.53,10.23,SUP0022,Active
+PROD00004,SKU-000004,Apex Electronics Item 4,Electronics,Brand B,18.61,12.48,SUP0055,Active
+PROD00005,SKU-000005,HomeNest Books Item 5,Books,Brand C,136.95,75.41,SUP0044,Active
+PROD00006,SKU-000006,HomeNest Sports Item 6,Sports,Brand A,90.64,53.11,SUP0068,Active
+PROD00007,SKU-000007,BrightTech Electronics Item 7,Electronics,Brand B,9.01,4.31,SUP0037,Active
+PROD00008,SKU-000008,BrightTech Toys Item 8,Toys,Brand C,26.94,15.2,SUP0004,Active
+PROD00009,SKU-000009,UrbanLeaf Books Item 9,Books,Brand B,49.9,23.36,SUP0055,Active
+PROD00010,SKU-000010,Nova Beauty Item 10,Beauty,Brand A,10.48,4.57,SUP0015,Active
+PROD00011,SKU-000011,UrbanLeaf Sports Item 11,Sports,Brand B,37.72,19.19,SUP0021,Active
+PROD00012,SKU-000012,UrbanLeaf Beauty Item 12,Beauty,Brand B,21.47,13.55,SUP0070,Active
+PROD00013,SKU-000013,UrbanLeaf Electronics Item 13,Electronics,Brand B,11.7,6.53,SUP0017,Active
+PROD00014,SKU-000014,HomeNest Electronics Item 14,Electronics,Brand A,5.41,2.19,SUP0007,Active
+PROD00015,SKU-000015,Nova Electronics Item 15,Electronics,Brand B,178.4,92.32,SUP0076,Active
+PROD00016,SKU-000016,HomeNest Books Item 16,Books,Brand C,122.67,73.72,SUP0063,Active
+PROD00017,SKU-000017,UrbanLeaf Grocery Item 17,Grocery,Brand D,163.65,77.86,SUP0062,Active
+PROD00018,SKU-000018,Apex Grocery Item 18,Grocery,Brand D,92.14,40.62,SUP0008,Active
+PROD00019,SKU-000019,Nova Sports Item 19,Sports,Brand D,10.65,4.64,SUP0051,Active
+PROD00020,SKU-000020,BrightTech Beauty Item 20,Beauty,Brand B,56.3,37.5,SUP0069,Active
+PROD00021,SKU-000021,Nova Grocery Item 21,Grocery,Brand A,37.29,24.09,SUP0043,Active
+PROD00022,SKU-000022,Apex Toys Item 22,Toys,Brand B,44.42,31.06,SUP0059,Active
+PROD00023,SKU-000023,Apex Electronics Item 23,Electronics,Brand C,39.37,18.29,SUP0023,Active
+PROD00024,SKU-000024,Nova Home & Kitchen Item 24,Home & Kitchen,Brand D,25.62,17.48,SUP0025,Active
+PROD00025,SKU-000025,HomeNest Home & Kitchen Item 25,Home & Kitchen,Brand B,50.71,25.19,SUP0077,Active
+PROD00026,SKU-000026,Nova Beauty Item 26,Beauty,Brand A,34.68,17.56,SUP0056,Active
+PROD00027,SKU-000027,BrightTech Sports Item 27,Sports,Brand A,65.9,29.55,SUP0054,Active
+PROD00028,SKU-000028,Nova Books Item 28,Books,Brand A,35.24,14.36,SUP0029,Active
+PROD00029,SKU-000029,UrbanLeaf Home & Kitchen Item 29,Home & Kitchen,Brand A,42.87,18.55,SUP0018,Active
+PROD00030,SKU-000030,UrbanLeaf Sports Item 30,Sports,Brand B,41.96,17.92,SUP0040,Active
+PROD00031,SKU-000031,HomeNest Electronics Item 31,Electronics,Brand C,9.43,5.79,SUP0035,Active
+PROD00032,SKU-000032,HomeNest Toys Item 32,Toys,Brand B,46.6,21.54,SUP0014,Active
+PROD00033,SKU-000033,Nova Fashion Item 33,Fashion,Brand B,50.29,31.78,SUP0006,Active
+PROD00034,SKU-000034,Nova Toys Item 34,Toys,Brand D,55.92,25.39,SUP0025,Active
+PROD00035,SKU-000035,Nova Fashion Item 35,Fashion,Brand A,36.69,15.74,SUP0045,Active
+PROD00036,SKU-000036,HomeNest Toys Item 36,Toys,Brand D,83.57,51.82,SUP0043,Active
+PROD00037,SKU-000037,UrbanLeaf Beauty Item 37,Beauty,Brand B,35.06,19.18,SUP0019,Active
+PROD00038,SKU-000038,UrbanLeaf Fashion Item 38,Fashion,Brand B,24.22,13.32,SUP0038,Active
+PROD00039,SKU-000039,HomeNest Books Item 39,Books,Brand B,46.61,20.49,SUP0025,Active
+PROD00040,SKU-000040,Nova Toys Item 40,Toys,Brand A,492.62,310.07,SUP0056,Active
+PROD00041,SKU-000041,HomeNest Electronics Item 41,Electronics,Brand A,46.71,31.77,SUP0058,Active
+PROD00042,SKU-000042,BrightTech Books Item 42,Books,Brand D,18.57,8.51,SUP0071,Active
+PROD00043,SKU-000043,UrbanLeaf Books Item 43,Books,Brand D,17.68,11.11,SUP0007,Active
+PROD00044,SKU-000044,Nova Sports Item 44,Sports,Brand C,111.23,78.74,SUP0078,Active
+PROD00045,SKU-000045,Apex Toys Item 45,Toys,Brand C,7.03,4.14,SUP0060,Active
+PROD00046,SKU-000046,HomeNest Sports Item 46,Sports,Brand C,34.25,15.81,SUP0040,Active
+PROD00047,SKU-000047,HomeNest Beauty Item 47,Beauty,Brand C,71.38,29.94,SUP0028,Active
+PROD00048,SKU-000048,UrbanLeaf Home & Kitchen Item 48,Home & Kitchen,Brand B,27.64,18.94,SUP0076,Active
+PROD00049,SKU-000049,HomeNest Grocery Item 49,Grocery,Brand D,10.55,7.02,SUP0003,Active
+PROD00050,SKU-000050,BrightTech Books Item 50,Books,Brand D,46.95,22.64,SUP0075,Active
+PROD00051,SKU-000051,Apex Toys Item 51,Toys,Brand C,96.07,53.17,SUP0026,Active
+PROD00052,SKU-000052,HomeNest Fashion Item 52,Fashion,Brand D,13.63,6.79,SUP0058,Active
+PROD00053,SKU-000053,Apex Electronics Item 53,Electronics,Brand B,54.11,34.6,SUP0066,Active
+PROD00054,SKU-000054,HomeNest Beauty Item 54,Beauty,Brand A,200.54,119.81,SUP0043,Active
+PROD00055,SKU-000055,UrbanLeaf Fashion Item 55,Fashion,Brand A,49.39,27.26,SUP0075,Active
+PROD00056,SKU-000056,Nova Grocery Item 56,Grocery,Brand D,12.69,8.93,SUP0055,Active
+PROD00057,SKU-000057,UrbanLeaf Fashion Item 57,Fashion,Brand A,16.78,11.88,SUP0044,Active
+PROD00058,SKU-000058,Apex Books Item 58,Books,Brand B,42.25,27.22,SUP0068,Active
+PROD00059,SKU-000059,Nova Beauty Item 59,Beauty,Brand C,77.23,44.06,SUP0007,Active
+PROD00060,SKU-000060,HomeNest Toys Item 60,Toys,Brand B,10.42,4.88,SUP0045,Active
+PROD00061,SKU-000061,BrightTech Grocery Item 61,Grocery,Brand D,46.92,29.96,SUP0047,Active
+PROD00062,SKU-000062,Nova Fashion Item 62,Fashion,Brand C,25.52,11.33,SUP0010,Active
+PROD00063,SKU-000063,Apex Grocery Item 63,Grocery,Brand B,44.57,25.44,SUP0065,Active
+PROD00064,SKU-000064,Nova Sports Item 64,Sports,Brand D,115.64,80.27,SUP0070,Active
+PROD00065,SKU-000065,BrightTech Home & Kitchen Item 65,Home & Kitchen,Brand A,32.9,18.06,SUP0055,Active
+PROD00066,SKU-000066,Apex Books Item 66,Books,Brand A,65.86,26.84,SUP0012,Active
+PROD00067,SKU-000067,HomeNest Grocery Item 67,Grocery,Brand D,48.27,30.32,SUP0074,Active
+PROD00068,SKU-000068,Apex Electronics Item 68,Electronics,Brand A,10.96,7.54,SUP0053,Active
+PROD00069,SKU-000069,UrbanLeaf Electronics Item 69,Electronics,Brand A,18.08,9.18,SUP0055,Active
+PROD00070,SKU-000070,UrbanLeaf Beauty Item 70,Beauty,Brand B,41.04,27.32,SUP0033,Active
+PROD00071,SKU-000071,BrightTech Sports Item 71,Sports,Brand B,14.07,6.24,SUP0047,Active
+PROD00072,SKU-000072,Apex Books Item 72,Books,Brand C,22.1,11.69,SUP0017,Active
+PROD00073,SKU-000073,BrightTech Books Item 73,Books,Brand A,125.65,89.03,SUP0072,Active
+PROD00074,SKU-000074,HomeNest Toys Item 74,Toys,Brand B,88.74,36.18,SUP0021,Active
+PROD00075,SKU-000075,HomeNest Sports Item 75,Sports,Brand B,106.14,65.38,SUP0030,Active
+PROD00076,SKU-000076,UrbanLeaf Sports Item 76,Sports,Brand A,55.77,24.41,SUP0078,Active
+PROD00077,SKU-000077,HomeNest Books Item 77,Books,Brand D,44.49,29.74,SUP0001,Active
+PROD00078,SKU-000078,Nova Home & Kitchen Item 78,Home & Kitchen,Brand D,79.05,49.68,SUP0016,Active
+PROD00079,SKU-000079,Apex Sports Item 79,Sports,Brand A,27.3,14.93,SUP0009,Active
+PROD00080,SKU-000080,UrbanLeaf Books Item 80,Books,Brand D,50.65,28.0,SUP0017,Active
+PROD00081,SKU-000081,Apex Sports Item 81,Sports,Brand B,12.07,5.42,SUP0016,Active
+PROD00082,SKU-000082,HomeNest Home & Kitchen Item 82,Home & Kitchen,Brand B,16.74,9.76,SUP0029,Active
+PROD00083,SKU-000083,BrightTech Sports Item 83,Sports,Brand D,13.9,8.68,SUP0024,Active
+PROD00084,SKU-000084,BrightTech Electronics Item 84,Electronics,Brand B,74.31,37.31,SUP0059,Active
+PROD00085,SKU-000085,Nova Grocery Item 85,Grocery,Brand D,96.48,55.43,SUP0050,Active
+PROD00086,SKU-000086,BrightTech Home & Kitchen Item 86,Home & Kitchen,Brand A,48.64,27.19,SUP0064,Active
+PROD00087,SKU-000087,UrbanLeaf Sports Item 87,Sports,Brand C,41.19,18.68,SUP0020,Active
+PROD00088,SKU-000088,HomeNest Home & Kitchen Item 88,Home & Kitchen,Brand B,16.24,10.61,SUP0027,Active
+PROD00089,SKU-000089,HomeNest Toys Item 89,Toys,Brand B,59.32,35.11,SUP0004,Active
+PROD00090,SKU-000090,Nova Beauty Item 90,Beauty,Brand B,13.03,6.88,SUP0059,Active
+PROD00091,SKU-000091,BrightTech Grocery Item 91,Grocery,Brand A,15.56,10.76,SUP0076,Active
+PROD00092,SKU-000092,BrightTech Home & Kitchen Item 92,Home & Kitchen,Brand D,76.22,43.26,SUP0046,Active
+PROD00093,SKU-000093,HomeNest Books Item 93,Books,Brand B,78.15,33.76,SUP0054,Active
+PROD00094,SKU-000094,Nova Sports Item 94,Sports,Brand C,98.44,57.04,SUP0078,Active
+PROD00095,SKU-000095,BrightTech Fashion Item 95,Fashion,Brand D,10.83,4.36,SUP0054,Active
+PROD00096,SKU-000096,UrbanLeaf Sports Item 96,Sports,Brand D,30.84,20.06,SUP0002,Active
+PROD00097,SKU-000097,UrbanLeaf Books Item 97,Books,Brand B,45.67,20.53,SUP0054,Active
+PROD00098,SKU-000098,UrbanLeaf Home & Kitchen Item 98,Home & Kitchen,Brand D,34.61,18.06,SUP0040,Active
+PROD00099,SKU-000099,BrightTech Books Item 99,Books,Brand C,66.53,46.31,SUP0066,Active
+PROD00100,SKU-000100,HomeNest Fashion Item 100,Fashion,Brand B,32.51,19.93,SUP0036,Active
+PROD00101,SKU-000101,HomeNest Fashion Item 101,Fashion,Brand C,21.89,15.34,SUP0066,Active
+PROD00102,SKU-000102,HomeNest Fashion Item 102,Fashion,Brand A,3.49,2.01,SUP0076,Active
+PROD00103,SKU-000103,UrbanLeaf Beauty Item 103,Beauty,Brand B,38.75,21.26,SUP0052,Active
+PROD00104,SKU-000104,UrbanLeaf Sports Item 104,Sports,Brand C,15.15,7.18,SUP0039,Active
+PROD00105,SKU-000105,Nova Toys Item 105,Toys,Brand C,48.92,21.37,SUP0036,Active
+PROD00106,SKU-000106,Nova Electronics Item 106,Electronics,Brand C,11.0,6.92,SUP0025,Active
+PROD00107,SKU-000107,UrbanLeaf Toys Item 107,Toys,Brand C,136.1,59.4,SUP0002,Active
+PROD00108,SKU-000108,HomeNest Electronics Item 108,Electronics,Brand D,69.66,39.79,SUP0069,Active
+PROD00109,SKU-000109,UrbanLeaf Books Item 109,Books,Brand D,5.04,2.86,SUP0074,Active
+PROD00110,SKU-000110,Nova Sports Item 110,Sports,Brand B,119.01,66.87,SUP0045,Active
+PROD00111,SKU-000111,Nova Beauty Item 111,Beauty,Brand B,25.17,15.69,SUP0041,Active
+PROD00112,SKU-000112,HomeNest Toys Item 112,Toys,Brand A,36.63,15.23,SUP0044,Active
+PROD00113,SKU-000113,BrightTech Toys Item 113,Toys,Brand B,43.23,19.9,SUP0055,Active
+PROD00114,SKU-000114,UrbanLeaf Beauty Item 114,Beauty,Brand C,59.73,27.72,SUP0010,Active
+PROD00115,SKU-000115,Apex Home & Kitchen Item 115,Home & Kitchen,Brand C,41.06,20.14,SUP0010,Active
+PROD00116,SKU-000116,Apex Grocery Item 116,Grocery,Brand C,67.41,36.42,SUP0041,Active
+PROD00117,SKU-000117,HomeNest Fashion Item 117,Fashion,Brand A,69.62,32.29,SUP0070,Active
+PROD00118,SKU-000118,UrbanLeaf Beauty Item 118,Beauty,Brand B,35.73,23.52,SUP0042,Active
+PROD00119,SKU-000119,Nova Sports Item 119,Sports,Brand D,16.78,11.88,SUP0064,Active
+PROD00120,SKU-000120,UrbanLeaf Books Item 120,Books,Brand C,22.24,12.68,SUP0058,Active
+PROD00121,SKU-000121,Nova Books Item 121,Books,Brand C,8.31,3.38,SUP0034,Active
+PROD00122,SKU-000122,Nova Fashion Item 122,Fashion,Brand A,32.23,14.28,SUP0074,Active
+PROD00123,SKU-000123,Nova Electronics Item 123,Electronics,Brand C,10.49,5.23,SUP0072,Active
+PROD00124,SKU-000124,Apex Toys Item 124,Toys,Brand A,35.81,21.82,SUP0062,Active
+PROD00125,SKU-000125,BrightTech Home & Kitchen Item 125,Home & Kitchen,Brand B,39.55,27.51,SUP0005,Active
+PROD00126,SKU-000126,BrightTech Grocery Item 126,Grocery,Brand C,15.23,10.71,SUP0014,Active
+PROD00127,SKU-000127,BrightTech Sports Item 127,Sports,Brand A,13.12,7.39,SUP0051,Active
+PROD00128,SKU-000128,Apex Fashion Item 128,Fashion,Brand D,84.48,35.85,SUP0070,Active
+PROD00129,SKU-000129,Nova Toys Item 129,Toys,Brand B,42.74,20.71,SUP0060,Active
+PROD00130,SKU-000130,HomeNest Toys Item 130,Toys,Brand A,28.57,15.32,SUP0057,Active
+PROD00131,SKU-000131,HomeNest Grocery Item 131,Grocery,Brand C,47.8,23.97,SUP0013,Active
+PROD00132,SKU-000132,BrightTech Beauty Item 132,Beauty,Brand A,30.83,19.89,SUP0007,Active
+PROD00133,SKU-000133,HomeNest Fashion Item 133,Fashion,Brand C,7.66,5.46,SUP0009,Active
+PROD00134,SKU-000134,HomeNest Sports Item 134,Sports,Brand C,58.95,38.17,SUP0069,Active
+PROD00135,SKU-000135,BrightTech Electronics Item 135,Electronics,Brand A,24.66,16.98,SUP0019,Active
+PROD00136,SKU-000136,Nova Beauty Item 136,Beauty,Brand B,4.81,2.23,SUP0048,Active
+PROD00137,SKU-000137,BrightTech Home & Kitchen Item 137,Home & Kitchen,Brand A,54.16,28.1,SUP0001,Active
+PROD00138,SKU-000138,UrbanLeaf Books Item 138,Books,Brand A,67.66,35.7,SUP0064,Active
+PROD00139,SKU-000139,UrbanLeaf Books Item 139,Books,Brand C,48.66,22.11,SUP0080,Active
+PROD00140,SKU-000140,Apex Electronics Item 140,Electronics,Brand B,53.63,26.82,SUP0039,Active
+PROD00141,SKU-000141,HomeNest Toys Item 141,Toys,Brand C,157.54,90.09,SUP0008,Active
+PROD00142,SKU-000142,Apex Grocery Item 142,Grocery,Brand D,27.64,12.96,SUP0023,Active
+PROD00143,SKU-000143,BrightTech Grocery Item 143,Grocery,Brand D,26.35,12.88,SUP0005,Active
+PROD00144,SKU-000144,BrightTech Home & Kitchen Item 144,Home & Kitchen,Brand A,83.13,51.41,SUP0002,Active
+PROD00145,SKU-000145,Apex Home & Kitchen Item 145,Home & Kitchen,Brand D,34.37,18.3,SUP0031,Active
+PROD00146,SKU-000146,HomeNest Grocery Item 146,Grocery,Brand B,8.79,6.02,SUP0046,Active
+PROD00147,SKU-000147,Nova Books Item 147,Books,Brand A,37.33,23.18,SUP0077,Active
+PROD00148,SKU-000148,UrbanLeaf Electronics Item 148,Electronics,Brand A,41.28,28.25,SUP0008,Active
+PROD00149,SKU-000149,BrightTech Fashion Item 149,Fashion,Brand A,47.99,23.96,SUP0002,Active
+PROD00150,SKU-000150,Apex Electronics Item 150,Electronics,Brand A,30.34,12.71,SUP0055,Active
+PROD00151,SKU-000151,UrbanLeaf Electronics Item 151,Electronics,Brand B,16.05,7.55,SUP0032,Active
+PROD00152,SKU-000152,BrightTech Toys Item 152,Toys,Brand B,38.41,24.9,SUP0069,Active
+PROD00153,SKU-000153,BrightTech Books Item 153,Books,Brand D,65.53,46.37,SUP0002,Active
+PROD00154,SKU-000154,Apex Home & Kitchen Item 154,Home & Kitchen,Brand A,40.56,22.24,SUP0075,Active
+PROD00155,SKU-000155,Nova Beauty Item 155,Beauty,Brand D,13.44,6.31,SUP0003,Active
+PROD00156,SKU-000156,Nova Fashion Item 156,Fashion,Brand A,34.05,23.89,SUP0053,Active
+PROD00157,SKU-000157,BrightTech Books Item 157,Books,Brand B,176.36,75.51,SUP0050,Active
+PROD00158,SKU-000158,Apex Home & Kitchen Item 158,Home & Kitchen,Brand D,16.76,7.59,SUP0019,Active
+PROD00159,SKU-000159,HomeNest Books Item 159,Books,Brand B,11.86,5.84,SUP0026,Active
+PROD00160,SKU-000160,UrbanLeaf Fashion Item 160,Fashion,Brand C,41.47,26.06,SUP0065,Active
+PROD00161,SKU-000161,UrbanLeaf Fashion Item 161,Fashion,Brand A,181.11,80.31,SUP0021,Active
+PROD00162,SKU-000162,HomeNest Electronics Item 162,Electronics,Brand A,88.53,55.27,SUP0005,Active
+PROD00163,SKU-000163,HomeNest Home & Kitchen Item 163,Home & Kitchen,Brand B,49.82,30.77,SUP0064,Active
+PROD00164,SKU-000164,BrightTech Home & Kitchen Item 164,Home & Kitchen,Brand C,15.87,7.51,SUP0027,Active
+PROD00165,SKU-000165,BrightTech Home & Kitchen Item 165,Home & Kitchen,Brand D,33.6,17.64,SUP0060,Active
+PROD00166,SKU-000166,UrbanLeaf Beauty Item 166,Beauty,Brand B,31.51,13.54,SUP0044,Active
+PROD00167,SKU-000167,BrightTech Sports Item 167,Sports,Brand B,6.46,3.56,SUP0035,Active
+PROD00168,SKU-000168,Apex Books Item 168,Books,Brand D,29.07,13.12,SUP0068,Active
+PROD00169,SKU-000169,BrightTech Sports Item 169,Sports,Brand C,16.86,7.96,SUP0021,Active
+PROD00170,SKU-000170,BrightTech Grocery Item 170,Grocery,Brand A,28.91,19.03,SUP0069,Active
+PROD00171,SKU-000171,BrightTech Electronics Item 171,Electronics,Brand B,64.76,38.14,SUP0014,Active
+PROD00172,SKU-000172,Apex Beauty Item 172,Beauty,Brand C,35.4,19.49,SUP0048,Active
+PROD00173,SKU-000173,BrightTech Grocery Item 173,Grocery,Brand C,67.63,36.33,SUP0075,Active
+PROD00174,SKU-000174,Apex Toys Item 174,Toys,Brand B,43.2,27.3,SUP0078,Active
+PROD00175,SKU-000175,HomeNest Sports Item 175,Sports,Brand B,107.36,62.4,SUP0015,Active
+PROD00176,SKU-000176,HomeNest Fashion Item 176,Fashion,Brand A,11.72,7.51,SUP0040,Active
+PROD00177,SKU-000177,UrbanLeaf Electronics Item 177,Electronics,Brand C,28.24,20.16,SUP0014,Active
+PROD00178,SKU-000178,UrbanLeaf Toys Item 178,Toys,Brand B,23.19,12.02,SUP0017,Active
+PROD00179,SKU-000179,Apex Electronics Item 179,Electronics,Brand D,5.63,2.65,SUP0018,Active
+PROD00180,SKU-000180,UrbanLeaf Fashion Item 180,Fashion,Brand A,15.37,8.53,SUP0020,Active
+PROD00181,SKU-000181,Nova Sports Item 181,Sports,Brand D,46.26,22.42,SUP0012,Active
+PROD00182,SKU-000182,BrightTech Toys Item 182,Toys,Brand C,16.38,7.26,SUP0071,Active
+PROD00183,SKU-000183,Nova Home & Kitchen Item 183,Home & Kitchen,Brand B,11.23,7.21,SUP0058,Active
+PROD00184,SKU-000184,BrightTech Toys Item 184,Toys,Brand A,26.13,13.88,SUP0067,Active
+PROD00185,SKU-000185,UrbanLeaf Sports Item 185,Sports,Brand C,7.2,4.3,SUP0077,Active
+PROD00186,SKU-000186,Nova Fashion Item 186,Fashion,Brand A,80.88,39.43,SUP0053,Active
+PROD00187,SKU-000187,Apex Toys Item 187,Toys,Brand C,194.71,89.5,SUP0020,Active
+PROD00188,SKU-000188,BrightTech Grocery Item 188,Grocery,Brand C,39.15,18.4,SUP0075,Active
+PROD00189,SKU-000189,UrbanLeaf Toys Item 189,Toys,Brand C,21.94,12.9,SUP0044,Active
+PROD00190,SKU-000190,Nova Electronics Item 190,Electronics,Brand B,38.94,25.33,SUP0030,Active
+PROD00191,SKU-000191,Apex Books Item 191,Books,Brand D,52.16,25.24,SUP0076,Active
+PROD00192,SKU-000192,BrightTech Grocery Item 192,Grocery,Brand A,30.39,18.68,SUP0022,Active
+PROD00193,SKU-000193,Apex Toys Item 193,Toys,Brand A,16.73,8.35,SUP0066,Active
+PROD00194,SKU-000194,BrightTech Electronics Item 194,Electronics,Brand A,7.83,4.28,SUP0031,Active
+PROD00195,SKU-000195,HomeNest Grocery Item 195,Grocery,Brand A,35.52,19.55,SUP0039,Active
+PROD00196,SKU-000196,BrightTech Fashion Item 196,Fashion,Brand D,36.19,25.95,SUP0058,Active
+PROD00197,SKU-000197,Apex Sports Item 197,Sports,Brand C,123.07,67.35,SUP0002,Active
+PROD00198,SKU-000198,UrbanLeaf Toys Item 198,Toys,Brand B,27.03,16.48,SUP0027,Active
+PROD00199,SKU-000199,UrbanLeaf Home & Kitchen Item 199,Home & Kitchen,Brand C,7.72,4.37,SUP0008,Active
+PROD00200,SKU-000200,HomeNest Grocery Item 200,Grocery,Brand A,59.2,28.46,SUP0017,Active
+PROD00201,SKU-000201,HomeNest Sports Item 201,Sports,Brand A,74.37,31.37,SUP0029,Active
+PROD00202,SKU-000202,Nova Electronics Item 202,Electronics,Brand C,18.87,11.99,SUP0018,Active
+PROD00203,SKU-000203,Apex Fashion Item 203,Fashion,Brand B,22.09,12.64,SUP0038,Active
+PROD00204,SKU-000204,Apex Books Item 204,Books,Brand C,29.08,19.86,SUP0031,Active
+PROD00205,SKU-000205,UrbanLeaf Home & Kitchen Item 205,Home & Kitchen,Brand C,18.18,11.1,SUP0066,Active
+PROD00206,SKU-000206,Nova Toys Item 206,Toys,Brand A,62.89,29.68,SUP0064,Active
+PROD00207,SKU-000207,UrbanLeaf Home & Kitchen Item 207,Home & Kitchen,Brand A,34.84,22.96,SUP0053,Active
+PROD00208,SKU-000208,HomeNest Electronics Item 208,Electronics,Brand D,17.21,7.64,SUP0053,Active
+PROD00209,SKU-000209,UrbanLeaf Home & Kitchen Item 209,Home & Kitchen,Brand C,31.0,19.58,SUP0055,Active
+PROD00210,SKU-000210,Nova Books Item 210,Books,Brand C,4.14,1.92,SUP0070,Active
+PROD00211,SKU-000211,HomeNest Toys Item 211,Toys,Brand B,8.87,6.33,SUP0028,Active
+PROD00212,SKU-000212,BrightTech Sports Item 212,Sports,Brand D,16.98,11.31,SUP0078,Active
+PROD00213,SKU-000213,UrbanLeaf Toys Item 213,Toys,Brand D,75.62,36.43,SUP0070,Active
+PROD00214,SKU-000214,Apex Books Item 214,Books,Brand A,36.15,25.62,SUP0008,Active
+PROD00215,SKU-000215,UrbanLeaf Beauty Item 215,Beauty,Brand D,27.48,15.05,SUP0075,Active
+PROD00216,SKU-000216,BrightTech Home & Kitchen Item 216,Home & Kitchen,Brand A,18.76,10.25,SUP0064,Active
+PROD00217,SKU-000217,Nova Fashion Item 217,Fashion,Brand A,35.77,20.17,SUP0011,Active
+PROD00218,SKU-000218,Apex Books Item 218,Books,Brand C,63.84,34.98,SUP0052,Active
+PROD00219,SKU-000219,UrbanLeaf Toys Item 219,Toys,Brand A,26.43,15.3,SUP0036,Active
+PROD00220,SKU-000220,UrbanLeaf Electronics Item 220,Electronics,Brand B,14.21,9.54,SUP0073,Active
+PROD00221,SKU-000221,Apex Electronics Item 221,Electronics,Brand B,136.47,55.13,SUP0006,Active
+PROD00222,SKU-000222,Nova Beauty Item 222,Beauty,Brand C,66.11,29.63,SUP0039,Active
+PROD00223,SKU-000223,UrbanLeaf Toys Item 223,Toys,Brand D,4.73,2.97,SUP0042,Active
+PROD00224,SKU-000224,Apex Beauty Item 224,Beauty,Brand D,50.19,28.03,SUP0051,Active
+PROD00225,SKU-000225,BrightTech Home & Kitchen Item 225,Home & Kitchen,Brand D,40.36,27.59,SUP0041,Active
+PROD00226,SKU-000226,UrbanLeaf Books Item 226,Books,Brand D,27.38,13.48,SUP0075,Active
+PROD00227,SKU-000227,UrbanLeaf Grocery Item 227,Grocery,Brand C,44.08,29.19,SUP0035,Active
+PROD00228,SKU-000228,UrbanLeaf Home & Kitchen Item 228,Home & Kitchen,Brand D,63.05,31.83,SUP0010,Active
+PROD00229,SKU-000229,HomeNest Grocery Item 229,Grocery,Brand C,3.0,1.7,SUP0047,Active
+PROD00230,SKU-000230,HomeNest Electronics Item 230,Electronics,Brand D,13.86,7.57,SUP0022,Active
+PROD00231,SKU-000231,BrightTech Sports Item 231,Sports,Brand D,22.1,12.44,SUP0055,Active
+PROD00232,SKU-000232,HomeNest Home & Kitchen Item 232,Home & Kitchen,Brand C,5.62,4.04,SUP0021,Active
+PROD00233,SKU-000233,Nova Toys Item 233,Toys,Brand B,86.4,49.17,SUP0062,Active
+PROD00234,SKU-000234,Nova Electronics Item 234,Electronics,Brand A,12.05,8.2,SUP0031,Active
+PROD00235,SKU-000235,UrbanLeaf Home & Kitchen Item 235,Home & Kitchen,Brand C,25.91,13.27,SUP0071,Active
+PROD00236,SKU-000236,HomeNest Sports Item 236,Sports,Brand C,17.47,10.44,SUP0028,Active
+PROD00237,SKU-000237,Apex Grocery Item 237,Grocery,Brand B,26.46,14.79,SUP0017,Active
+PROD00238,SKU-000238,HomeNest Sports Item 238,Sports,Brand C,27.27,19.01,SUP0013,Active
+PROD00239,SKU-000239,BrightTech Home & Kitchen Item 239,Home & Kitchen,Brand C,102.7,66.64,SUP0042,Active
+PROD00240,SKU-000240,UrbanLeaf Sports Item 240,Sports,Brand D,25.54,17.76,SUP0067,Active
+PROD00241,SKU-000241,UrbanLeaf Electronics Item 241,Electronics,Brand A,3.61,2.06,SUP0014,Active
+PROD00242,SKU-000242,UrbanLeaf Sports Item 242,Sports,Brand A,19.21,7.84,SUP0054,Active
+PROD00243,SKU-000243,HomeNest Grocery Item 243,Grocery,Brand B,52.31,33.37,SUP0062,Active
+PROD00244,SKU-000244,HomeNest Beauty Item 244,Beauty,Brand A,44.4,21.51,SUP0074,Active
+PROD00245,SKU-000245,BrightTech Books Item 245,Books,Brand C,38.06,26.62,SUP0006,Active
+PROD00246,SKU-000246,Nova Fashion Item 246,Fashion,Brand A,57.01,26.16,SUP0019,Active
+PROD00247,SKU-000247,Nova Books Item 247,Books,Brand B,40.86,19.28,SUP0057,Active
+PROD00248,SKU-000248,UrbanLeaf Toys Item 248,Toys,Brand C,8.72,6.02,SUP0040,Active
+PROD00249,SKU-000249,BrightTech Grocery Item 249,Grocery,Brand C,59.35,25.98,SUP0057,Active
+PROD00250,SKU-000250,Apex Home & Kitchen Item 250,Home & Kitchen,Brand A,30.29,18.7,SUP0051,Active
+PROD00251,SKU-000251,Apex Beauty Item 251,Beauty,Brand B,49.32,35.28,SUP0067,Active
+PROD00252,SKU-000252,Nova Sports Item 252,Sports,Brand D,18.36,9.89,SUP0047,Active
+PROD00253,SKU-000253,Nova Toys Item 253,Toys,Brand A,47.23,25.7,SUP0047,Active
+PROD00254,SKU-000254,Nova Electronics Item 254,Electronics,Brand D,15.01,10.75,SUP0003,Active
+PROD00255,SKU-000255,HomeNest Toys Item 255,Toys,Brand C,55.41,23.02,SUP0030,Active
+PROD00256,SKU-000256,HomeNest Beauty Item 256,Beauty,Brand A,78.91,31.63,SUP0079,Active
+PROD00257,SKU-000257,BrightTech Sports Item 257,Sports,Brand A,30.19,21.35,SUP0056,Active
+PROD00258,SKU-000258,BrightTech Grocery Item 258,Grocery,Brand B,19.22,9.73,SUP0051,Active
+PROD00259,SKU-000259,Nova Toys Item 259,Toys,Brand C,16.55,10.49,SUP0065,Active
+PROD00260,SKU-000260,HomeNest Beauty Item 260,Beauty,Brand C,19.5,11.85,SUP0045,Active
+PROD00261,SKU-000261,UrbanLeaf Toys Item 261,Toys,Brand B,149.77,99.97,SUP0036,Active
+PROD00262,SKU-000262,HomeNest Sports Item 262,Sports,Brand D,114.67,47.29,SUP0011,Active
+PROD00263,SKU-000263,BrightTech Beauty Item 263,Beauty,Brand D,30.31,14.47,SUP0005,Active
+PROD00264,SKU-000264,HomeNest Fashion Item 264,Fashion,Brand A,8.6,4.54,SUP0075,Active
+PROD00265,SKU-000265,HomeNest Toys Item 265,Toys,Brand D,130.95,61.07,SUP0079,Active
+PROD00266,SKU-000266,UrbanLeaf Sports Item 266,Sports,Brand A,17.04,9.99,SUP0008,Active
+PROD00267,SKU-000267,Apex Sports Item 267,Sports,Brand A,40.09,18.89,SUP0018,Active
+PROD00268,SKU-000268,UrbanLeaf Books Item 268,Books,Brand B,40.75,20.91,SUP0061,Active
+PROD00269,SKU-000269,HomeNest Fashion Item 269,Fashion,Brand A,47.48,31.55,SUP0064,Active
+PROD00270,SKU-000270,UrbanLeaf Electronics Item 270,Electronics,Brand B,33.7,18.47,SUP0076,Active
+PROD00271,SKU-000271,Apex Fashion Item 271,Fashion,Brand D,19.75,9.64,SUP0045,Active
+PROD00272,SKU-000272,UrbanLeaf Electronics Item 272,Electronics,Brand C,62.61,31.91,SUP0074,Active
+PROD00273,SKU-000273,UrbanLeaf Toys Item 273,Toys,Brand A,4.85,2.12,SUP0018,Active
+PROD00274,SKU-000274,BrightTech Home & Kitchen Item 274,Home & Kitchen,Brand C,21.89,15.32,SUP0061,Active
+PROD00275,SKU-000275,BrightTech Grocery Item 275,Grocery,Brand C,167.69,110.99,SUP0044,Active
+PROD00276,SKU-000276,HomeNest Toys Item 276,Toys,Brand C,42.18,20.56,SUP0011,Active
+PROD00277,SKU-000277,BrightTech Grocery Item 277,Grocery,Brand A,12.84,9.15,SUP0049,Active
+PROD00278,SKU-000278,HomeNest Home & Kitchen Item 278,Home & Kitchen,Brand A,7.2,4.08,SUP0065,Active
+PROD00279,SKU-000279,Nova Beauty Item 279,Beauty,Brand D,45.82,27.23,SUP0021,Active
+PROD00280,SKU-000280,HomeNest Beauty Item 280,Beauty,Brand B,171.8,73.44,SUP0009,Active
+PROD00281,SKU-000281,BrightTech Fashion Item 281,Fashion,Brand B,29.29,15.5,SUP0054,Active
+PROD00282,SKU-000282,BrightTech Grocery Item 282,Grocery,Brand C,16.76,8.36,SUP0059,Active
+PROD00283,SKU-000283,Apex Fashion Item 283,Fashion,Brand B,168.09,85.32,SUP0018,Active
+PROD00284,SKU-000284,UrbanLeaf Sports Item 284,Sports,Brand B,5.1,2.15,SUP0054,Active
+PROD00285,SKU-000285,Apex Beauty Item 285,Beauty,Brand C,82.0,52.13,SUP0065,Active
+PROD00286,SKU-000286,Apex Electronics Item 286,Electronics,Brand C,27.41,13.99,SUP0009,Active
+PROD00287,SKU-000287,UrbanLeaf Grocery Item 287,Grocery,Brand D,63.96,32.42,SUP0066,Active
+PROD00288,SKU-000288,Nova Fashion Item 288,Fashion,Brand D,46.06,25.52,SUP0059,Active
+PROD00289,SKU-000289,HomeNest Home & Kitchen Item 289,Home & Kitchen,Brand C,53.37,28.49,SUP0053,Active
+PROD00290,SKU-000290,UrbanLeaf Beauty Item 290,Beauty,Brand A,38.1,21.21,SUP0031,Active
+PROD00291,SKU-000291,BrightTech Sports Item 291,Sports,Brand B,20.48,8.86,SUP0004,Active
+PROD00292,SKU-000292,Apex Books Item 292,Books,Brand B,35.66,21.13,SUP0024,Active
+PROD00293,SKU-000293,Nova Toys Item 293,Toys,Brand B,62.82,38.64,SUP0074,Active
+PROD00294,SKU-000294,Nova Beauty Item 294,Beauty,Brand D,6.42,2.94,SUP0008,Active
+PROD00295,SKU-000295,Nova Sports Item 295,Sports,Brand B,101.99,66.04,SUP0038,Active
+PROD00296,SKU-000296,Nova Fashion Item 296,Fashion,Brand D,69.93,36.18,SUP0011,Active
+PROD00297,SKU-000297,HomeNest Electronics Item 297,Electronics,Brand D,53.18,36.93,SUP0034,Active
+PROD00298,SKU-000298,UrbanLeaf Beauty Item 298,Beauty,Brand C,64.35,29.88,SUP0080,Active
+PROD00299,SKU-000299,Apex Beauty Item 299,Beauty,Brand C,96.41,39.19,SUP0080,Active
+PROD00300,SKU-000300,Nova Books Item 300,Books,Brand B,38.12,19.54,SUP0011,Active
+PROD00301,SKU-000301,Apex Books Item 301,Books,Brand B,141.8,96.55,SUP0011,Active
+PROD00302,SKU-000302,HomeNest Grocery Item 302,Grocery,Brand C,39.93,18.86,SUP0018,Active
+PROD00303,SKU-000303,HomeNest Fashion Item 303,Fashion,Brand B,41.02,24.94,SUP0027,Active
+PROD00304,SKU-000304,Nova Toys Item 304,Toys,Brand B,21.87,15.28,SUP0018,Active
+PROD00305,SKU-000305,Apex Grocery Item 305,Grocery,Brand A,12.81,5.92,SUP0042,Active
+PROD00306,SKU-000306,Nova Grocery Item 306,Grocery,Brand C,47.17,20.05,SUP0017,Active
+PROD00307,SKU-000307,UrbanLeaf Beauty Item 307,Beauty,Brand A,34.81,17.13,SUP0024,Active
+PROD00308,SKU-000308,Apex Toys Item 308,Toys,Brand B,23.67,15.58,SUP0047,Active
+PROD00309,SKU-000309,BrightTech Books Item 309,Books,Brand C,21.57,8.77,SUP0033,Active
+PROD00310,SKU-000310,UrbanLeaf Electronics Item 310,Electronics,Brand C,134.11,76.44,SUP0019,Active
+PROD00311,SKU-000311,Apex Grocery Item 311,Grocery,Brand D,70.21,36.78,SUP0046,Active
+PROD00312,SKU-000312,Apex Electronics Item 312,Electronics,Brand B,14.15,9.54,SUP0075,Active
+PROD00313,SKU-000313,UrbanLeaf Grocery Item 313,Grocery,Brand D,19.4,11.65,SUP0054,Active
+PROD00314,SKU-000314,Apex Home & Kitchen Item 314,Home & Kitchen,Brand C,49.5,30.88,SUP0078,Active
+PROD00315,SKU-000315,UrbanLeaf Electronics Item 315,Electronics,Brand C,37.53,18.31,SUP0053,Active
+PROD00316,SKU-000316,Nova Beauty Item 316,Beauty,Brand D,34.57,24.37,SUP0046,Active
+PROD00317,SKU-000317,Nova Fashion Item 317,Fashion,Brand B,19.68,13.26,SUP0072,Active
+PROD00318,SKU-000318,Nova Electronics Item 318,Electronics,Brand C,50.93,22.19,SUP0064,Active
+PROD00319,SKU-000319,BrightTech Grocery Item 319,Grocery,Brand B,110.39,61.33,SUP0036,Active
+PROD00320,SKU-000320,UrbanLeaf Toys Item 320,Toys,Brand B,23.31,15.44,SUP0063,Active
+PROD00321,SKU-000321,UrbanLeaf Beauty Item 321,Beauty,Brand A,18.62,10.75,SUP0003,Active
+PROD00322,SKU-000322,Nova Toys Item 322,Toys,Brand C,21.54,12.93,SUP0064,Active
+PROD00323,SKU-000323,BrightTech Books Item 323,Books,Brand B,247.81,175.22,SUP0072,Active
+PROD00324,SKU-000324,UrbanLeaf Beauty Item 324,Beauty,Brand C,34.49,17.43,SUP0066,Active
+PROD00325,SKU-000325,HomeNest Grocery Item 325,Grocery,Brand B,6.96,4.71,SUP0072,Active
+PROD00326,SKU-000326,BrightTech Grocery Item 326,Grocery,Brand A,67.87,43.1,SUP0075,Active
+PROD00327,SKU-000327,BrightTech Home & Kitchen Item 327,Home & Kitchen,Brand C,12.54,5.39,SUP0017,Active
+PROD00328,SKU-000328,BrightTech Beauty Item 328,Beauty,Brand D,6.55,4.43,SUP0061,Active
+PROD00329,SKU-000329,BrightTech Sports Item 329,Sports,Brand D,40.36,28.21,SUP0069,Active
+PROD00330,SKU-000330,Nova Electronics Item 330,Electronics,Brand C,35.9,21.26,SUP0039,Active
+PROD00331,SKU-000331,HomeNest Grocery Item 331,Grocery,Brand B,77.81,50.54,SUP0003,Active
+PROD00332,SKU-000332,BrightTech Beauty Item 332,Beauty,Brand A,82.54,35.18,SUP0057,Active
+PROD00333,SKU-000333,BrightTech Toys Item 333,Toys,Brand B,71.41,51.04,SUP0018,Active
+PROD00334,SKU-000334,HomeNest Books Item 334,Books,Brand A,38.33,24.6,SUP0063,Active
+PROD00335,SKU-000335,Nova Sports Item 335,Sports,Brand C,43.51,30.8,SUP0025,Active
+PROD00336,SKU-000336,HomeNest Sports Item 336,Sports,Brand C,10.29,4.71,SUP0006,Active
+PROD00337,SKU-000337,Nova Electronics Item 337,Electronics,Brand D,34.0,20.69,SUP0046,Active
+PROD00338,SKU-000338,Nova Grocery Item 338,Grocery,Brand C,115.18,78.49,SUP0059,Active
+PROD00339,SKU-000339,HomeNest Books Item 339,Books,Brand C,19.71,8.73,SUP0071,Active
+PROD00340,SKU-000340,BrightTech Grocery Item 340,Grocery,Brand A,53.05,31.29,SUP0062,Active
+PROD00341,SKU-000341,UrbanLeaf Books Item 341,Books,Brand D,30.42,19.09,SUP0013,Active
+PROD00342,SKU-000342,Apex Toys Item 342,Toys,Brand B,15.07,8.09,SUP0003,Active
+PROD00343,SKU-000343,Apex Beauty Item 343,Beauty,Brand C,5.86,2.84,SUP0053,Active
+PROD00344,SKU-000344,Nova Home & Kitchen Item 344,Home & Kitchen,Brand C,13.55,7.5,SUP0019,Active
+PROD00345,SKU-000345,Nova Beauty Item 345,Beauty,Brand A,20.75,12.84,SUP0009,Active
+PROD00346,SKU-000346,Apex Books Item 346,Books,Brand A,50.09,28.97,SUP0027,Active
+PROD00347,SKU-000347,Nova Fashion Item 347,Fashion,Brand D,34.38,21.47,SUP0057,Active
+PROD00348,SKU-000348,Nova Toys Item 348,Toys,Brand B,39.16,22.22,SUP0053,Active
+PROD00349,SKU-000349,Apex Books Item 349,Books,Brand C,10.16,4.72,SUP0044,Active
+PROD00350,SKU-000350,Nova Fashion Item 350,Fashion,Brand C,7.1,3.11,SUP0035,Active
+PROD00351,SKU-000351,Nova Home & Kitchen Item 351,Home & Kitchen,Brand B,16.11,9.87,SUP0021,Active
+PROD00352,SKU-000352,Nova Books Item 352,Books,Brand B,48.25,19.75,SUP0046,Active
+PROD00353,SKU-000353,Apex Home & Kitchen Item 353,Home & Kitchen,Brand B,37.05,23.42,SUP0058,Active
+PROD00354,SKU-000354,Nova Books Item 354,Books,Brand C,34.47,17.18,SUP0063,Active
+PROD00355,SKU-000355,Apex Electronics Item 355,Electronics,Brand C,41.63,27.14,SUP0052,Active
+PROD00356,SKU-000356,UrbanLeaf Grocery Item 356,Grocery,Brand B,157.54,76.96,SUP0013,Active
+PROD00357,SKU-000357,UrbanLeaf Home & Kitchen Item 357,Home & Kitchen,Brand B,104.47,51.41,SUP0067,Active
+PROD00358,SKU-000358,UrbanLeaf Home & Kitchen Item 358,Home & Kitchen,Brand B,145.82,99.96,SUP0035,Active
+PROD00359,SKU-000359,Apex Electronics Item 359,Electronics,Brand B,20.52,11.72,SUP0044,Active
+PROD00360,SKU-000360,Nova Home & Kitchen Item 360,Home & Kitchen,Brand A,45.28,21.79,SUP0001,Active
+PROD00361,SKU-000361,Nova Electronics Item 361,Electronics,Brand B,25.01,12.9,SUP0076,Active
+PROD00362,SKU-000362,HomeNest Home & Kitchen Item 362,Home & Kitchen,Brand B,21.31,13.48,SUP0042,Active
+PROD00363,SKU-000363,UrbanLeaf Home & Kitchen Item 363,Home & Kitchen,Brand B,68.89,49.48,SUP0021,Active
+PROD00364,SKU-000364,Nova Grocery Item 364,Grocery,Brand D,46.17,24.33,SUP0068,Active
+PROD00365,SKU-000365,Apex Fashion Item 365,Fashion,Brand C,7.64,5.34,SUP0053,Active
+PROD00366,SKU-000366,Apex Beauty Item 366,Beauty,Brand C,13.61,9.75,SUP0032,Active
+PROD00367,SKU-000367,Nova Books Item 367,Books,Brand D,36.89,22.94,SUP0079,Active
+PROD00368,SKU-000368,Apex Books Item 368,Books,Brand C,71.72,41.48,SUP0022,Active
+PROD00369,SKU-000369,HomeNest Sports Item 369,Sports,Brand D,87.77,55.93,SUP0022,Active
+PROD00370,SKU-000370,UrbanLeaf Books Item 370,Books,Brand A,62.85,38.26,SUP0030,Active
+PROD00371,SKU-000371,HomeNest Toys Item 371,Toys,Brand C,36.77,26.14,SUP0066,Active
+PROD00372,SKU-000372,HomeNest Beauty Item 372,Beauty,Brand A,111.44,54.83,SUP0046,Active
+PROD00373,SKU-000373,Nova Sports Item 373,Sports,Brand B,41.97,18.39,SUP0058,Active
+PROD00374,SKU-000374,HomeNest Electronics Item 374,Electronics,Brand A,28.0,14.35,SUP0048,Active
+PROD00375,SKU-000375,HomeNest Electronics Item 375,Electronics,Brand B,19.96,11.15,SUP0064,Active
+PROD00376,SKU-000376,HomeNest Beauty Item 376,Beauty,Brand A,14.89,7.32,SUP0004,Active
+PROD00377,SKU-000377,HomeNest Home & Kitchen Item 377,Home & Kitchen,Brand B,60.26,34.25,SUP0054,Active
+PROD00378,SKU-000378,UrbanLeaf Fashion Item 378,Fashion,Brand D,126.18,85.96,SUP0063,Active
+PROD00379,SKU-000379,Apex Toys Item 379,Toys,Brand D,24.02,11.94,SUP0016,Active
+PROD00380,SKU-000380,HomeNest Fashion Item 380,Fashion,Brand B,24.9,14.82,SUP0057,Active
+PROD00381,SKU-000381,Apex Books Item 381,Books,Brand B,81.19,35.44,SUP0023,Active
+PROD00382,SKU-000382,UrbanLeaf Sports Item 382,Sports,Brand D,31.37,18.83,SUP0014,Active
+PROD00383,SKU-000383,HomeNest Toys Item 383,Toys,Brand B,24.31,15.12,SUP0067,Active
+PROD00384,SKU-000384,UrbanLeaf Home & Kitchen Item 384,Home & Kitchen,Brand B,72.52,38.08,SUP0017,Active
+PROD00385,SKU-000385,Nova Home & Kitchen Item 385,Home & Kitchen,Brand C,103.83,67.03,SUP0064,Active
+PROD00386,SKU-000386,Apex Books Item 386,Books,Brand B,97.29,54.62,SUP0054,Active
+PROD00387,SKU-000387,Apex Home & Kitchen Item 387,Home & Kitchen,Brand B,31.63,17.76,SUP0013,Active
+PROD00388,SKU-000388,Apex Beauty Item 388,Beauty,Brand A,44.71,25.03,SUP0018,Active
+PROD00389,SKU-000389,BrightTech Beauty Item 389,Beauty,Brand C,24.47,10.04,SUP0079,Active
+PROD00390,SKU-000390,Apex Home & Kitchen Item 390,Home & Kitchen,Brand B,42.33,17.93,SUP0058,Active
+PROD00391,SKU-000391,BrightTech Grocery Item 391,Grocery,Brand A,75.84,32.35,SUP0041,Active
+PROD00392,SKU-000392,Apex Books Item 392,Books,Brand D,75.27,42.13,SUP0042,Active
+PROD00393,SKU-000393,BrightTech Electronics Item 393,Electronics,Brand C,95.4,49.93,SUP0078,Active
+PROD00394,SKU-000394,Nova Electronics Item 394,Electronics,Brand C,20.69,10.54,SUP0018,Active
+PROD00395,SKU-000395,Nova Sports Item 395,Sports,Brand B,28.03,15.44,SUP0007,Active
+PROD00396,SKU-000396,UrbanLeaf Sports Item 396,Sports,Brand B,10.8,6.37,SUP0017,Active
+PROD00397,SKU-000397,BrightTech Home & Kitchen Item 397,Home & Kitchen,Brand B,63.06,42.44,SUP0080,Active
+PROD00398,SKU-000398,UrbanLeaf Sports Item 398,Sports,Brand D,26.92,15.57,SUP0054,Active
+PROD00399,SKU-000399,Nova Toys Item 399,Toys,Brand B,15.74,10.18,SUP0052,Active
+PROD00400,SKU-000400,UrbanLeaf Beauty Item 400,Beauty,Brand A,34.86,24.01,SUP0066,Active
+PROD00401,SKU-000401,HomeNest Sports Item 401,Sports,Brand B,57.14,40.29,SUP0044,Active
+PROD00402,SKU-000402,Apex Beauty Item 402,Beauty,Brand D,15.11,6.92,SUP0033,Active
+PROD00403,SKU-000403,Nova Sports Item 403,Sports,Brand C,59.16,23.94,SUP0047,Active
+PROD00404,SKU-000404,UrbanLeaf Beauty Item 404,Beauty,Brand B,253.53,152.06,SUP0013,Active
+PROD00405,SKU-000405,BrightTech Beauty Item 405,Beauty,Brand D,51.95,30.34,SUP0019,Active
+PROD00406,SKU-000406,BrightTech Grocery Item 406,Grocery,Brand A,30.59,18.7,SUP0054,Active
+PROD00407,SKU-000407,UrbanLeaf Electronics Item 407,Electronics,Brand B,35.01,25.18,SUP0028,Active
+PROD00408,SKU-000408,BrightTech Electronics Item 408,Electronics,Brand C,421.5,239.91,SUP0072,Active
+PROD00409,SKU-000409,BrightTech Grocery Item 409,Grocery,Brand D,105.36,69.86,SUP0051,Active
+PROD00410,SKU-000410,BrightTech Grocery Item 410,Grocery,Brand C,113.52,71.31,SUP0072,Active
+PROD00411,SKU-000411,BrightTech Electronics Item 411,Electronics,Brand B,49.18,20.25,SUP0011,Active
+PROD00412,SKU-000412,HomeNest Grocery Item 412,Grocery,Brand B,23.78,9.98,SUP0013,Active
+PROD00413,SKU-000413,Apex Beauty Item 413,Beauty,Brand B,9.33,6.07,SUP0017,Active
+PROD00414,SKU-000414,Nova Electronics Item 414,Electronics,Brand D,27.52,19.16,SUP0001,Active
+PROD00415,SKU-000415,BrightTech Electronics Item 415,Electronics,Brand D,50.24,20.44,SUP0016,Active
+PROD00416,SKU-000416,BrightTech Fashion Item 416,Fashion,Brand D,79.02,50.24,SUP0039,Active
+PROD00417,SKU-000417,BrightTech Sports Item 417,Sports,Brand C,25.11,15.45,SUP0080,Active
+PROD00418,SKU-000418,HomeNest Books Item 418,Books,Brand C,26.87,16.37,SUP0066,Active
+PROD00419,SKU-000419,UrbanLeaf Toys Item 419,Toys,Brand B,384.43,179.07,SUP0027,Active
+PROD00420,SKU-000420,UrbanLeaf Fashion Item 420,Fashion,Brand B,10.94,7.32,SUP0073,Active
+PROD00421,SKU-000421,HomeNest Grocery Item 421,Grocery,Brand C,17.03,8.02,SUP0030,Active
+PROD00422,SKU-000422,BrightTech Electronics Item 422,Electronics,Brand D,31.75,15.1,SUP0057,Active
+PROD00423,SKU-000423,Apex Home & Kitchen Item 423,Home & Kitchen,Brand D,23.64,16.18,SUP0057,Active
+PROD00424,SKU-000424,Apex Electronics Item 424,Electronics,Brand C,23.46,12.95,SUP0074,Active
+PROD00425,SKU-000425,UrbanLeaf Home & Kitchen Item 425,Home & Kitchen,Brand C,199.32,122.21,SUP0080,Active
+PROD00426,SKU-000426,Nova Fashion Item 426,Fashion,Brand A,36.84,19.7,SUP0006,Active
+PROD00427,SKU-000427,UrbanLeaf Grocery Item 427,Grocery,Brand D,71.3,40.38,SUP0032,Active
+PROD00428,SKU-000428,UrbanLeaf Home & Kitchen Item 428,Home & Kitchen,Brand A,84.24,43.17,SUP0059,Active
+PROD00429,SKU-000429,HomeNest Home & Kitchen Item 429,Home & Kitchen,Brand D,115.74,66.08,SUP0062,Active
+PROD00430,SKU-000430,HomeNest Toys Item 430,Toys,Brand A,13.57,7.19,SUP0062,Active
+PROD00431,SKU-000431,Nova Sports Item 431,Sports,Brand C,32.05,16.43,SUP0044,Active
+PROD00432,SKU-000432,UrbanLeaf Books Item 432,Books,Brand D,46.03,24.1,SUP0056,Active
+PROD00433,SKU-000433,Apex Electronics Item 433,Electronics,Brand B,24.42,15.27,SUP0066,Active
+PROD00434,SKU-000434,UrbanLeaf Books Item 434,Books,Brand B,38.92,26.17,SUP0055,Active
+PROD00435,SKU-000435,UrbanLeaf Sports Item 435,Sports,Brand B,53.02,24.26,SUP0046,Active
+PROD00436,SKU-000436,Nova Home & Kitchen Item 436,Home & Kitchen,Brand D,12.26,7.52,SUP0068,Active
+PROD00437,SKU-000437,UrbanLeaf Grocery Item 437,Grocery,Brand B,6.11,3.02,SUP0006,Active
+PROD00438,SKU-000438,HomeNest Home & Kitchen Item 438,Home & Kitchen,Brand A,48.17,34.44,SUP0022,Active
+PROD00439,SKU-000439,Apex Sports Item 439,Sports,Brand C,16.38,10.66,SUP0044,Active
+PROD00440,SKU-000440,Apex Electronics Item 440,Electronics,Brand D,55.51,23.33,SUP0004,Active
+PROD00441,SKU-000441,UrbanLeaf Fashion Item 441,Fashion,Brand B,16.54,7.18,SUP0018,Active
+PROD00442,SKU-000442,Apex Sports Item 442,Sports,Brand A,21.27,14.7,SUP0074,Active
+PROD00443,SKU-000443,BrightTech Electronics Item 443,Electronics,Brand A,42.95,24.4,SUP0075,Active
+PROD00444,SKU-000444,HomeNest Grocery Item 444,Grocery,Brand B,76.96,45.33,SUP0003,Active
+PROD00445,SKU-000445,BrightTech Electronics Item 445,Electronics,Brand C,6.87,4.91,SUP0002,Active
+PROD00446,SKU-000446,Nova Beauty Item 446,Beauty,Brand B,42.3,25.25,SUP0001,Active
+PROD00447,SKU-000447,UrbanLeaf Home & Kitchen Item 447,Home & Kitchen,Brand B,4.18,1.99,SUP0015,Active
+PROD00448,SKU-000448,UrbanLeaf Books Item 448,Books,Brand D,20.18,11.74,SUP0079,Active
+PROD00449,SKU-000449,HomeNest Sports Item 449,Sports,Brand D,129.97,54.32,SUP0045,Active
+PROD00450,SKU-000450,HomeNest Electronics Item 450,Electronics,Brand D,79.35,45.23,SUP0040,Active
+PROD00451,SKU-000451,UrbanLeaf Books Item 451,Books,Brand C,54.98,22.29,SUP0076,Active
+PROD00452,SKU-000452,BrightTech Home & Kitchen Item 452,Home & Kitchen,Brand D,19.86,11.6,SUP0076,Active
+PROD00453,SKU-000453,Nova Beauty Item 453,Beauty,Brand D,36.01,15.52,SUP0076,Active
+PROD00454,SKU-000454,HomeNest Electronics Item 454,Electronics,Brand A,4.81,2.74,SUP0014,Active
+PROD00455,SKU-000455,Nova Electronics Item 455,Electronics,Brand A,50.44,33.11,SUP0018,Active
+PROD00456,SKU-000456,Apex Fashion Item 456,Fashion,Brand C,25.25,13.56,SUP0010,Active
+PROD00457,SKU-000457,BrightTech Sports Item 457,Sports,Brand A,46.15,19.88,SUP0068,Active
+PROD00458,SKU-000458,HomeNest Grocery Item 458,Grocery,Brand C,43.16,22.77,SUP0001,Active
+PROD00459,SKU-000459,Nova Home & Kitchen Item 459,Home & Kitchen,Brand A,15.9,8.37,SUP0006,Active
+PROD00460,SKU-000460,UrbanLeaf Toys Item 460,Toys,Brand A,53.78,24.81,SUP0035,Active
+PROD00461,SKU-000461,UrbanLeaf Electronics Item 461,Electronics,Brand C,130.26,68.46,SUP0037,Active
+PROD00462,SKU-000462,Nova Fashion Item 462,Fashion,Brand A,17.89,7.46,SUP0080,Active
+PROD00463,SKU-000463,Apex Toys Item 463,Toys,Brand B,11.08,5.38,SUP0058,Active
+PROD00464,SKU-000464,UrbanLeaf Fashion Item 464,Fashion,Brand B,89.32,53.33,SUP0015,Active
+PROD00465,SKU-000465,UrbanLeaf Electronics Item 465,Electronics,Brand B,37.89,18.32,SUP0038,Active
+PROD00466,SKU-000466,HomeNest Electronics Item 466,Electronics,Brand C,39.2,20.52,SUP0021,Active
+PROD00467,SKU-000467,UrbanLeaf Electronics Item 467,Electronics,Brand A,106.6,74.43,SUP0070,Active
+PROD00468,SKU-000468,Nova Home & Kitchen Item 468,Home & Kitchen,Brand A,34.71,20.06,SUP0079,Active
+PROD00469,SKU-000469,Nova Toys Item 469,Toys,Brand C,16.14,10.5,SUP0068,Active
+PROD00470,SKU-000470,Nova Beauty Item 470,Beauty,Brand A,70.12,43.53,SUP0074,Active
+PROD00471,SKU-000471,UrbanLeaf Grocery Item 471,Grocery,Brand A,20.57,11.81,SUP0073,Active
+PROD00472,SKU-000472,Nova Beauty Item 472,Beauty,Brand C,17.99,10.55,SUP0048,Active
+PROD00473,SKU-000473,BrightTech Toys Item 473,Toys,Brand C,48.38,26.9,SUP0072,Active
+PROD00474,SKU-000474,HomeNest Electronics Item 474,Electronics,Brand D,20.17,13.13,SUP0078,Active
+PROD00475,SKU-000475,HomeNest Electronics Item 475,Electronics,Brand D,16.91,9.17,SUP0069,Active
+PROD00476,SKU-000476,Nova Grocery Item 476,Grocery,Brand C,61.3,40.21,SUP0034,Active
+PROD00477,SKU-000477,UrbanLeaf Fashion Item 477,Fashion,Brand B,128.11,88.58,SUP0011,Active
+PROD00478,SKU-000478,Nova Grocery Item 478,Grocery,Brand C,11.41,4.6,SUP0062,Active
+PROD00479,SKU-000479,Nova Books Item 479,Books,Brand C,87.13,38.88,SUP0032,Active
+PROD00480,SKU-000480,UrbanLeaf Fashion Item 480,Fashion,Brand B,53.04,37.51,SUP0009,Active
+PROD00481,SKU-000481,HomeNest Toys Item 481,Toys,Brand A,50.4,33.4,SUP0059,Active
+PROD00482,SKU-000482,Nova Home & Kitchen Item 482,Home & Kitchen,Brand C,13.22,9.01,SUP0046,Active
+PROD00483,SKU-000483,BrightTech Beauty Item 483,Beauty,Brand D,33.35,20.75,SUP0069,Active
+PROD00484,SKU-000484,Nova Fashion Item 484,Fashion,Brand C,15.69,8.51,SUP0072,Active
+PROD00485,SKU-000485,Nova Fashion Item 485,Fashion,Brand A,3.32,1.86,SUP0014,Active
+PROD00486,SKU-000486,Apex Books Item 486,Books,Brand D,34.71,18.9,SUP0021,Active
+PROD00487,SKU-000487,UrbanLeaf Fashion Item 487,Fashion,Brand B,38.24,15.66,SUP0042,Active
+PROD00488,SKU-000488,BrightTech Grocery Item 488,Grocery,Brand B,10.89,7.43,SUP0009,Active
+PROD00489,SKU-000489,Nova Sports Item 489,Sports,Brand A,15.4,8.89,SUP0033,Active
+PROD00490,SKU-000490,Nova Books Item 490,Books,Brand D,121.72,66.7,SUP0075,Active
+PROD00491,SKU-000491,Nova Grocery Item 491,Grocery,Brand C,75.28,36.23,SUP0046,Active
+PROD00492,SKU-000492,Apex Toys Item 492,Toys,Brand C,46.52,33.12,SUP0050,Active
+PROD00493,SKU-000493,Apex Grocery Item 493,Grocery,Brand A,16.79,7.13,SUP0062,Active
+PROD00494,SKU-000494,HomeNest Electronics Item 494,Electronics,Brand B,60.22,43.2,SUP0029,Active
+PROD00495,SKU-000495,Nova Toys Item 495,Toys,Brand B,13.26,6.83,SUP0045,Active
+PROD00496,SKU-000496,Nova Home & Kitchen Item 496,Home & Kitchen,Brand D,46.48,21.7,SUP0052,Active
+PROD00497,SKU-000497,UrbanLeaf Home & Kitchen Item 497,Home & Kitchen,Brand A,32.53,15.99,SUP0072,Active
+PROD00498,SKU-000498,UrbanLeaf Sports Item 498,Sports,Brand B,60.73,29.39,SUP0052,Active
+PROD00499,SKU-000499,Nova Sports Item 499,Sports,Brand D,84.36,52.87,SUP0076,Active
+PROD00500,SKU-000500,BrightTech Electronics Item 500,Electronics,Brand D,48.88,25.16,SUP0030,Active
+PROD00501,SKU-000501,UrbanLeaf Home & Kitchen Item 501,Home & Kitchen,Brand B,99.96,54.26,SUP0037,Active
+PROD00502,SKU-000502,HomeNest Beauty Item 502,Beauty,Brand A,303.62,194.53,SUP0024,Active
+PROD00503,SKU-000503,Nova Fashion Item 503,Fashion,Brand B,29.58,20.78,SUP0026,Active
+PROD00504,SKU-000504,BrightTech Fashion Item 504,Fashion,Brand A,87.06,51.59,SUP0018,Active
+PROD00505,SKU-000505,Nova Sports Item 505,Sports,Brand A,53.74,37.78,SUP0024,Active
+PROD00506,SKU-000506,Apex Fashion Item 506,Fashion,Brand D,36.37,21.48,SUP0026,Active
+PROD00507,SKU-000507,BrightTech Fashion Item 507,Fashion,Brand B,73.24,47.75,SUP0028,Active
+PROD00508,SKU-000508,BrightTech Home & Kitchen Item 508,Home & Kitchen,Brand D,31.35,20.21,SUP0064,Active
+PROD00509,SKU-000509,Nova Sports Item 509,Sports,Brand C,87.17,51.21,SUP0053,Active
+PROD00510,SKU-000510,BrightTech Sports Item 510,Sports,Brand B,29.43,18.72,SUP0026,Active
+PROD00511,SKU-000511,UrbanLeaf Grocery Item 511,Grocery,Brand B,39.76,19.79,SUP0021,Active
+PROD00512,SKU-000512,UrbanLeaf Sports Item 512,Sports,Brand A,53.32,29.7,SUP0057,Active
+PROD00513,SKU-000513,HomeNest Home & Kitchen Item 513,Home & Kitchen,Brand D,36.38,19.0,SUP0060,Active
+PROD00514,SKU-000514,Apex Sports Item 514,Sports,Brand D,23.16,9.64,SUP0032,Active
+PROD00515,SKU-000515,BrightTech Beauty Item 515,Beauty,Brand D,37.73,23.89,SUP0016,Active
+PROD00516,SKU-000516,HomeNest Books Item 516,Books,Brand C,75.07,32.17,SUP0020,Active
+PROD00517,SKU-000517,Nova Fashion Item 517,Fashion,Brand A,3.86,1.85,SUP0015,Active
+PROD00518,SKU-000518,Nova Grocery Item 518,Grocery,Brand B,47.42,28.75,SUP0028,Active
+PROD00519,SKU-000519,HomeNest Home & Kitchen Item 519,Home & Kitchen,Brand B,71.65,31.7,SUP0043,Active
+PROD00520,SKU-000520,Apex Sports Item 520,Sports,Brand A,39.84,24.02,SUP0016,Active
+PROD00521,SKU-000521,HomeNest Books Item 521,Books,Brand D,71.47,36.76,SUP0027,Active
+PROD00522,SKU-000522,BrightTech Toys Item 522,Toys,Brand B,35.11,23.31,SUP0047,Active
+PROD00523,SKU-000523,HomeNest Books Item 523,Books,Brand D,73.38,40.32,SUP0025,Active
+PROD00524,SKU-000524,Nova Fashion Item 524,Fashion,Brand D,30.52,19.93,SUP0011,Active
+PROD00525,SKU-000525,BrightTech Electronics Item 525,Electronics,Brand B,42.74,30.47,SUP0002,Active
+PROD00526,SKU-000526,Nova Sports Item 526,Sports,Brand B,342.1,215.79,SUP0021,Active
+PROD00527,SKU-000527,Nova Grocery Item 527,Grocery,Brand B,39.68,25.28,SUP0015,Active
+PROD00528,SKU-000528,Nova Beauty Item 528,Beauty,Brand C,52.48,34.92,SUP0040,Active
+PROD00529,SKU-000529,BrightTech Toys Item 529,Toys,Brand B,52.87,31.11,SUP0033,Active
+PROD00530,SKU-000530,BrightTech Electronics Item 530,Electronics,Brand B,22.82,10.72,SUP0057,Active
+PROD00531,SKU-000531,HomeNest Beauty Item 531,Beauty,Brand D,74.96,45.66,SUP0023,Active
+PROD00532,SKU-000532,HomeNest Fashion Item 532,Fashion,Brand B,22.65,13.14,SUP0054,Active
+PROD00533,SKU-000533,Nova Electronics Item 533,Electronics,Brand D,9.4,4.49,SUP0017,Active
+PROD00534,SKU-000534,BrightTech Home & Kitchen Item 534,Home & Kitchen,Brand C,26.82,16.12,SUP0006,Active
+PROD00535,SKU-000535,Apex Fashion Item 535,Fashion,Brand D,38.36,26.49,SUP0078,Active
+PROD00536,SKU-000536,Nova Books Item 536,Books,Brand D,51.73,30.58,SUP0007,Active
+PROD00537,SKU-000537,Nova Books Item 537,Books,Brand A,60.37,38.17,SUP0021,Active
+PROD00538,SKU-000538,BrightTech Electronics Item 538,Electronics,Brand C,34.22,20.56,SUP0080,Active
+PROD00539,SKU-000539,Apex Electronics Item 539,Electronics,Brand A,38.03,17.71,SUP0012,Active
+PROD00540,SKU-000540,HomeNest Home & Kitchen Item 540,Home & Kitchen,Brand D,44.39,28.04,SUP0012,Active
+PROD00541,SKU-000541,Apex Toys Item 541,Toys,Brand D,40.58,25.01,SUP0065,Active
+PROD00542,SKU-000542,BrightTech Electronics Item 542,Electronics,Brand D,10.29,5.1,SUP0070,Active
+PROD00543,SKU-000543,Apex Beauty Item 543,Beauty,Brand B,66.02,34.3,SUP0079,Active
+PROD00544,SKU-000544,Nova Grocery Item 544,Grocery,Brand D,30.45,14.31,SUP0046,Active
+PROD00545,SKU-000545,HomeNest Books Item 545,Books,Brand D,69.98,47.38,SUP0053,Active
+PROD00546,SKU-000546,Nova Books Item 546,Books,Brand C,42.82,24.76,SUP0076,Active
+PROD00547,SKU-000547,Nova Grocery Item 547,Grocery,Brand A,23.4,10.32,SUP0070,Active
+PROD00548,SKU-000548,UrbanLeaf Electronics Item 548,Electronics,Brand A,16.54,10.16,SUP0072,Active
+PROD00549,SKU-000549,BrightTech Electronics Item 549,Electronics,Brand B,15.23,9.53,SUP0036,Active
+PROD00550,SKU-000550,HomeNest Electronics Item 550,Electronics,Brand B,212.22,114.0,SUP0061,Active
+PROD00551,SKU-000551,Nova Grocery Item 551,Grocery,Brand A,56.06,33.15,SUP0003,Active
+PROD00552,SKU-000552,UrbanLeaf Grocery Item 552,Grocery,Brand D,185.8,104.48,SUP0058,Active
+PROD00553,SKU-000553,UrbanLeaf Sports Item 553,Sports,Brand A,21.02,9.55,SUP0004,Active
+PROD00554,SKU-000554,Nova Sports Item 554,Sports,Brand B,49.76,31.45,SUP0053,Active
+PROD00555,SKU-000555,Apex Sports Item 555,Sports,Brand D,43.92,29.37,SUP0061,Active
+PROD00556,SKU-000556,HomeNest Fashion Item 556,Fashion,Brand A,20.12,9.12,SUP0008,Active
+PROD00557,SKU-000557,Nova Grocery Item 557,Grocery,Brand B,4.47,1.97,SUP0031,Active
+PROD00558,SKU-000558,HomeNest Electronics Item 558,Electronics,Brand D,4.39,2.88,SUP0039,Active
+PROD00559,SKU-000559,BrightTech Fashion Item 559,Fashion,Brand A,54.1,31.92,SUP0002,Active
+PROD00560,SKU-000560,UrbanLeaf Fashion Item 560,Fashion,Brand B,77.98,34.03,SUP0014,Active
+PROD00561,SKU-000561,HomeNest Books Item 561,Books,Brand C,19.88,7.97,SUP0067,Active
+PROD00562,SKU-000562,Apex Electronics Item 562,Electronics,Brand B,22.7,13.65,SUP0080,Active
+PROD00563,SKU-000563,HomeNest Fashion Item 563,Fashion,Brand D,20.56,9.89,SUP0032,Active
+PROD00564,SKU-000564,BrightTech Sports Item 564,Sports,Brand A,38.09,23.08,SUP0068,Active
+PROD00565,SKU-000565,HomeNest Fashion Item 565,Fashion,Brand D,34.09,15.55,SUP0009,Active
+PROD00566,SKU-000566,UrbanLeaf Toys Item 566,Toys,Brand C,91.66,62.14,SUP0075,Active
+PROD00567,SKU-000567,Nova Electronics Item 567,Electronics,Brand C,8.35,4.1,SUP0072,Active
+PROD00568,SKU-000568,HomeNest Beauty Item 568,Beauty,Brand C,13.28,5.47,SUP0046,Active
+PROD00569,SKU-000569,Nova Beauty Item 569,Beauty,Brand C,22.06,13.2,SUP0051,Active
+PROD00570,SKU-000570,UrbanLeaf Toys Item 570,Toys,Brand B,16.75,10.71,SUP0028,Active
+PROD00571,SKU-000571,BrightTech Home & Kitchen Item 571,Home & Kitchen,Brand C,64.96,37.16,SUP0065,Active
+PROD00572,SKU-000572,BrightTech Electronics Item 572,Electronics,Brand B,15.0,7.09,SUP0076,Active
+PROD00573,SKU-000573,Nova Books Item 573,Books,Brand B,19.49,10.51,SUP0031,Active
+PROD00574,SKU-000574,Apex Electronics Item 574,Electronics,Brand D,160.11,87.02,SUP0051,Active
+PROD00575,SKU-000575,UrbanLeaf Toys Item 575,Toys,Brand D,27.23,16.46,SUP0061,Active
+PROD00576,SKU-000576,UrbanLeaf Toys Item 576,Toys,Brand D,13.9,9.95,SUP0051,Active
+PROD00577,SKU-000577,UrbanLeaf Toys Item 577,Toys,Brand B,125.75,86.82,SUP0076,Active
+PROD00578,SKU-000578,Nova Grocery Item 578,Grocery,Brand C,180.64,77.76,SUP0077,Active
+PROD00579,SKU-000579,UrbanLeaf Beauty Item 579,Beauty,Brand D,27.37,14.29,SUP0069,Active
+PROD00580,SKU-000580,Apex Sports Item 580,Sports,Brand B,65.05,30.45,SUP0008,Active
+PROD00581,SKU-000581,Nova Toys Item 581,Toys,Brand A,95.12,62.93,SUP0002,Active
+PROD00582,SKU-000582,Nova Home & Kitchen Item 582,Home & Kitchen,Brand D,15.75,10.16,SUP0032,Active
+PROD00583,SKU-000583,Nova Electronics Item 583,Electronics,Brand B,21.12,9.21,SUP0017,Active
+PROD00584,SKU-000584,BrightTech Toys Item 584,Toys,Brand A,53.01,35.52,SUP0076,Active
+PROD00585,SKU-000585,Nova Electronics Item 585,Electronics,Brand A,47.33,21.39,SUP0030,Active
+PROD00586,SKU-000586,Apex Beauty Item 586,Beauty,Brand A,144.26,99.22,SUP0026,Active
+PROD00587,SKU-000587,Apex Home & Kitchen Item 587,Home & Kitchen,Brand C,53.1,33.61,SUP0064,Active
+PROD00588,SKU-000588,HomeNest Fashion Item 588,Fashion,Brand A,7.05,3.74,SUP0024,Active
+PROD00589,SKU-000589,BrightTech Electronics Item 589,Electronics,Brand D,63.83,41.45,SUP0072,Active
+PROD00590,SKU-000590,HomeNest Grocery Item 590,Grocery,Brand C,154.73,95.54,SUP0030,Active
+PROD00591,SKU-000591,HomeNest Fashion Item 591,Fashion,Brand D,15.32,9.42,SUP0077,Active
+PROD00592,SKU-000592,BrightTech Fashion Item 592,Fashion,Brand A,119.61,60.47,SUP0069,Active
+PROD00593,SKU-000593,HomeNest Toys Item 593,Toys,Brand C,63.39,37.71,SUP0047,Active
+PROD00594,SKU-000594,UrbanLeaf Sports Item 594,Sports,Brand A,49.63,24.01,SUP0018,Active
+PROD00595,SKU-000595,Apex Sports Item 595,Sports,Brand C,153.63,87.2,SUP0011,Active
+PROD00596,SKU-000596,Nova Books Item 596,Books,Brand D,30.83,18.12,SUP0067,Active
+PROD00597,SKU-000597,Apex Home & Kitchen Item 597,Home & Kitchen,Brand B,28.21,18.58,SUP0005,Active
+PROD00598,SKU-000598,HomeNest Toys Item 598,Toys,Brand B,20.64,13.84,SUP0033,Active
+PROD00599,SKU-000599,Nova Books Item 599,Books,Brand A,63.12,30.79,SUP0032,Active
+PROD00600,SKU-000600,UrbanLeaf Grocery Item 600,Grocery,Brand A,15.1,7.45,SUP0022,Active
+PROD00601,SKU-000601,HomeNest Home & Kitchen Item 601,Home & Kitchen,Brand A,105.39,50.07,SUP0056,Active
+PROD00602,SKU-000602,BrightTech Home & Kitchen Item 602,Home & Kitchen,Brand C,172.14,97.83,SUP0036,Active
+PROD00603,SKU-000603,UrbanLeaf Books Item 603,Books,Brand C,15.53,9.13,SUP0003,Active
+PROD00604,SKU-000604,Nova Home & Kitchen Item 604,Home & Kitchen,Brand C,45.71,25.77,SUP0030,Active
+PROD00605,SKU-000605,BrightTech Books Item 605,Books,Brand D,21.11,12.21,SUP0016,Active
+PROD00606,SKU-000606,BrightTech Sports Item 606,Sports,Brand B,17.17,7.84,SUP0030,Active
+PROD00607,SKU-000607,BrightTech Beauty Item 607,Beauty,Brand D,148.12,86.37,SUP0062,Active
+PROD00608,SKU-000608,UrbanLeaf Sports Item 608,Sports,Brand B,23.61,14.83,SUP0009,Active
+PROD00609,SKU-000609,BrightTech Fashion Item 609,Fashion,Brand A,64.09,31.0,SUP0024,Active
+PROD00610,SKU-000610,Apex Home & Kitchen Item 610,Home & Kitchen,Brand C,163.97,73.94,SUP0074,Active
+PROD00611,SKU-000611,HomeNest Toys Item 611,Toys,Brand A,216.51,129.49,SUP0041,Active
+PROD00612,SKU-000612,UrbanLeaf Sports Item 612,Sports,Brand C,44.99,31.79,SUP0045,Active
+PROD00613,SKU-000613,Apex Beauty Item 613,Beauty,Brand D,66.46,30.79,SUP0014,Active
+PROD00614,SKU-000614,HomeNest Beauty Item 614,Beauty,Brand A,48.64,21.34,SUP0019,Active
+PROD00615,SKU-000615,BrightTech Electronics Item 615,Electronics,Brand C,51.26,33.89,SUP0040,Active
+PROD00616,SKU-000616,UrbanLeaf Toys Item 616,Toys,Brand B,41.57,28.75,SUP0014,Active
+PROD00617,SKU-000617,BrightTech Toys Item 617,Toys,Brand C,31.45,21.24,SUP0003,Active
+PROD00618,SKU-000618,HomeNest Toys Item 618,Toys,Brand B,12.66,7.34,SUP0057,Active
+PROD00619,SKU-000619,BrightTech Fashion Item 619,Fashion,Brand B,9.82,5.49,SUP0076,Active
+PROD00620,SKU-000620,Apex Sports Item 620,Sports,Brand A,7.06,3.69,SUP0067,Active
+PROD00621,SKU-000621,Apex Electronics Item 621,Electronics,Brand C,27.9,19.88,SUP0031,Active
+PROD00622,SKU-000622,HomeNest Home & Kitchen Item 622,Home & Kitchen,Brand C,78.73,35.42,SUP0006,Active
+PROD00623,SKU-000623,Apex Home & Kitchen Item 623,Home & Kitchen,Brand C,20.95,12.04,SUP0015,Active
+PROD00624,SKU-000624,Nova Books Item 624,Books,Brand C,24.28,13.6,SUP0011,Active
+PROD00625,SKU-000625,Apex Fashion Item 625,Fashion,Brand A,54.7,37.01,SUP0030,Active
+PROD00626,SKU-000626,HomeNest Books Item 626,Books,Brand D,34.07,24.09,SUP0057,Active
+PROD00627,SKU-000627,BrightTech Electronics Item 627,Electronics,Brand D,68.83,27.54,SUP0041,Active
+PROD00628,SKU-000628,Nova Electronics Item 628,Electronics,Brand A,32.27,18.8,SUP0035,Active
+PROD00629,SKU-000629,HomeNest Books Item 629,Books,Brand C,49.52,22.74,SUP0024,Active
+PROD00630,SKU-000630,BrightTech Toys Item 630,Toys,Brand B,18.36,9.78,SUP0079,Active
+PROD00631,SKU-000631,Apex Sports Item 631,Sports,Brand C,51.94,34.69,SUP0020,Active
+PROD00632,SKU-000632,UrbanLeaf Books Item 632,Books,Brand B,34.09,23.25,SUP0016,Active
+PROD00633,SKU-000633,BrightTech Beauty Item 633,Beauty,Brand C,42.34,28.56,SUP0036,Active
+PROD00634,SKU-000634,Nova Sports Item 634,Sports,Brand C,9.7,4.1,SUP0047,Active
+PROD00635,SKU-000635,UrbanLeaf Sports Item 635,Sports,Brand A,116.75,57.9,SUP0002,Active
+PROD00636,SKU-000636,BrightTech Beauty Item 636,Beauty,Brand D,31.0,14.17,SUP0005,Active
+PROD00637,SKU-000637,BrightTech Beauty Item 637,Beauty,Brand B,77.68,45.85,SUP0036,Active
+PROD00638,SKU-000638,HomeNest Sports Item 638,Sports,Brand D,84.25,46.89,SUP0006,Active
+PROD00639,SKU-000639,BrightTech Electronics Item 639,Electronics,Brand A,49.39,28.57,SUP0007,Active
+PROD00640,SKU-000640,UrbanLeaf Sports Item 640,Sports,Brand D,75.63,40.04,SUP0059,Active
+PROD00641,SKU-000641,Apex Electronics Item 641,Electronics,Brand D,51.38,26.14,SUP0019,Active
+PROD00642,SKU-000642,Apex Grocery Item 642,Grocery,Brand B,12.85,5.85,SUP0005,Active
+PROD00643,SKU-000643,Nova Beauty Item 643,Beauty,Brand C,24.63,10.18,SUP0003,Active
+PROD00644,SKU-000644,Nova Beauty Item 644,Beauty,Brand D,23.39,12.64,SUP0005,Active
+PROD00645,SKU-000645,HomeNest Electronics Item 645,Electronics,Brand A,64.0,39.78,SUP0079,Active
+PROD00646,SKU-000646,UrbanLeaf Electronics Item 646,Electronics,Brand D,10.53,4.41,SUP0078,Active
+PROD00647,SKU-000647,Nova Books Item 647,Books,Brand A,14.92,9.46,SUP0037,Active
+PROD00648,SKU-000648,Nova Grocery Item 648,Grocery,Brand B,15.77,8.71,SUP0006,Active
+PROD00649,SKU-000649,UrbanLeaf Beauty Item 649,Beauty,Brand C,97.49,57.6,SUP0005,Active
+PROD00650,SKU-000650,Apex Fashion Item 650,Fashion,Brand B,9.28,5.23,SUP0018,Active
+PROD00651,SKU-000651,UrbanLeaf Sports Item 651,Sports,Brand C,35.49,15.62,SUP0072,Active
+PROD00652,SKU-000652,BrightTech Fashion Item 652,Fashion,Brand B,11.17,4.55,SUP0050,Active
+PROD00653,SKU-000653,HomeNest Beauty Item 653,Beauty,Brand A,57.58,27.58,SUP0053,Active
+PROD00654,SKU-000654,HomeNest Sports Item 654,Sports,Brand C,79.3,49.23,SUP0039,Active
+PROD00655,SKU-000655,UrbanLeaf Home & Kitchen Item 655,Home & Kitchen,Brand A,34.59,16.18,SUP0006,Active
+PROD00656,SKU-000656,UrbanLeaf Toys Item 656,Toys,Brand B,6.97,2.94,SUP0067,Active
+PROD00657,SKU-000657,Nova Home & Kitchen Item 657,Home & Kitchen,Brand B,74.26,31.03,SUP0068,Active
+PROD00658,SKU-000658,Nova Grocery Item 658,Grocery,Brand A,20.01,8.09,SUP0003,Active
+PROD00659,SKU-000659,BrightTech Toys Item 659,Toys,Brand D,12.48,5.06,SUP0040,Active
+PROD00660,SKU-000660,HomeNest Toys Item 660,Toys,Brand C,25.05,13.01,SUP0071,Active
+PROD00661,SKU-000661,Nova Grocery Item 661,Grocery,Brand A,14.86,7.57,SUP0048,Active
+PROD00662,SKU-000662,Apex Grocery Item 662,Grocery,Brand C,38.65,24.97,SUP0024,Active
+PROD00663,SKU-000663,HomeNest Toys Item 663,Toys,Brand A,31.01,19.55,SUP0061,Active
+PROD00664,SKU-000664,HomeNest Beauty Item 664,Beauty,Brand D,23.68,13.49,SUP0027,Active
+PROD00665,SKU-000665,Apex Beauty Item 665,Beauty,Brand D,84.25,51.05,SUP0070,Active
+PROD00666,SKU-000666,UrbanLeaf Fashion Item 666,Fashion,Brand B,84.05,41.68,SUP0004,Active
+PROD00667,SKU-000667,HomeNest Sports Item 667,Sports,Brand C,11.81,8.42,SUP0034,Active
+PROD00668,SKU-000668,UrbanLeaf Fashion Item 668,Fashion,Brand A,56.33,26.31,SUP0018,Active
+PROD00669,SKU-000669,Apex Books Item 669,Books,Brand B,9.27,5.3,SUP0005,Active
+PROD00670,SKU-000670,HomeNest Grocery Item 670,Grocery,Brand D,106.85,67.19,SUP0079,Active
+PROD00671,SKU-000671,UrbanLeaf Fashion Item 671,Fashion,Brand B,103.22,50.66,SUP0038,Active
+PROD00672,SKU-000672,Apex Sports Item 672,Sports,Brand D,26.72,12.08,SUP0075,Active
+PROD00673,SKU-000673,BrightTech Sports Item 673,Sports,Brand C,12.05,6.77,SUP0043,Active
+PROD00674,SKU-000674,HomeNest Fashion Item 674,Fashion,Brand B,107.98,51.27,SUP0013,Active
+PROD00675,SKU-000675,UrbanLeaf Toys Item 675,Toys,Brand D,75.84,36.83,SUP0059,Active
+PROD00676,SKU-000676,Apex Toys Item 676,Toys,Brand A,18.44,7.62,SUP0047,Active
+PROD00677,SKU-000677,Nova Books Item 677,Books,Brand C,32.43,15.4,SUP0026,Active
+PROD00678,SKU-000678,Nova Books Item 678,Books,Brand A,100.76,42.82,SUP0041,Active
+PROD00679,SKU-000679,UrbanLeaf Toys Item 679,Toys,Brand A,10.67,5.23,SUP0034,Active
+PROD00680,SKU-000680,UrbanLeaf Books Item 680,Books,Brand A,122.25,57.45,SUP0039,Active
+PROD00681,SKU-000681,Nova Electronics Item 681,Electronics,Brand B,80.32,32.15,SUP0034,Active
+PROD00682,SKU-000682,HomeNest Grocery Item 682,Grocery,Brand B,102.69,63.1,SUP0049,Active
+PROD00683,SKU-000683,BrightTech Grocery Item 683,Grocery,Brand D,110.65,45.84,SUP0044,Active
+PROD00684,SKU-000684,HomeNest Home & Kitchen Item 684,Home & Kitchen,Brand B,8.34,4.07,SUP0034,Active
+PROD00685,SKU-000685,HomeNest Toys Item 685,Toys,Brand D,27.65,15.82,SUP0034,Active
+PROD00686,SKU-000686,UrbanLeaf Books Item 686,Books,Brand C,22.01,8.83,SUP0021,Active
+PROD00687,SKU-000687,Apex Electronics Item 687,Electronics,Brand B,97.73,57.62,SUP0026,Active
+PROD00688,SKU-000688,HomeNest Sports Item 688,Sports,Brand A,41.58,24.63,SUP0074,Active
+PROD00689,SKU-000689,UrbanLeaf Sports Item 689,Sports,Brand A,34.15,20.47,SUP0080,Active
+PROD00690,SKU-000690,HomeNest Beauty Item 690,Beauty,Brand C,19.72,13.99,SUP0033,Active
+PROD00691,SKU-000691,Apex Electronics Item 691,Electronics,Brand B,53.01,24.54,SUP0064,Active
+PROD00692,SKU-000692,UrbanLeaf Books Item 692,Books,Brand D,37.47,23.21,SUP0080,Active
+PROD00693,SKU-000693,Apex Grocery Item 693,Grocery,Brand B,78.21,52.55,SUP0050,Active
+PROD00694,SKU-000694,HomeNest Books Item 694,Books,Brand C,28.35,17.02,SUP0032,Active
+PROD00695,SKU-000695,Apex Books Item 695,Books,Brand D,12.95,8.98,SUP0029,Active
+PROD00696,SKU-000696,UrbanLeaf Grocery Item 696,Grocery,Brand C,28.28,17.02,SUP0021,Active
+PROD00697,SKU-000697,Nova Sports Item 697,Sports,Brand B,11.65,7.75,SUP0024,Active
+PROD00698,SKU-000698,BrightTech Sports Item 698,Sports,Brand B,17.97,11.11,SUP0028,Active
+PROD00699,SKU-000699,UrbanLeaf Toys Item 699,Toys,Brand C,37.76,23.44,SUP0030,Active
+PROD00700,SKU-000700,Apex Grocery Item 700,Grocery,Brand D,12.81,8.2,SUP0008,Active
+PROD00701,SKU-000701,Apex Sports Item 701,Sports,Brand B,19.23,11.59,SUP0043,Active
+PROD00702,SKU-000702,BrightTech Electronics Item 702,Electronics,Brand C,34.34,18.99,SUP0048,Active
+PROD00703,SKU-000703,Nova Toys Item 703,Toys,Brand C,20.19,8.43,SUP0046,Active
+PROD00704,SKU-000704,UrbanLeaf Sports Item 704,Sports,Brand D,113.81,64.09,SUP0002,Active
+PROD00705,SKU-000705,UrbanLeaf Books Item 705,Books,Brand B,93.95,64.42,SUP0013,Active
+PROD00706,SKU-000706,Nova Electronics Item 706,Electronics,Brand D,48.49,31.63,SUP0017,Active
+PROD00707,SKU-000707,BrightTech Books Item 707,Books,Brand B,11.1,7.42,SUP0076,Active
+PROD00708,SKU-000708,Nova Toys Item 708,Toys,Brand C,81.58,48.92,SUP0064,Active
+PROD00709,SKU-000709,BrightTech Beauty Item 709,Beauty,Brand C,10.66,5.7,SUP0018,Active
+PROD00710,SKU-000710,BrightTech Home & Kitchen Item 710,Home & Kitchen,Brand D,19.35,11.24,SUP0054,Active
+PROD00711,SKU-000711,UrbanLeaf Fashion Item 711,Fashion,Brand B,47.52,29.05,SUP0023,Active
+PROD00712,SKU-000712,UrbanLeaf Sports Item 712,Sports,Brand B,68.1,35.1,SUP0031,Active
+PROD00713,SKU-000713,Apex Electronics Item 713,Electronics,Brand D,60.91,42.06,SUP0058,Active
+PROD00714,SKU-000714,BrightTech Beauty Item 714,Beauty,Brand C,22.2,13.89,SUP0001,Active
+PROD00715,SKU-000715,UrbanLeaf Sports Item 715,Sports,Brand B,15.1,7.58,SUP0054,Active
+PROD00716,SKU-000716,Nova Sports Item 716,Sports,Brand B,14.8,7.14,SUP0053,Active
+PROD00717,SKU-000717,BrightTech Sports Item 717,Sports,Brand A,15.07,6.13,SUP0024,Active
+PROD00718,SKU-000718,HomeNest Sports Item 718,Sports,Brand D,18.51,10.4,SUP0076,Active
+PROD00719,SKU-000719,BrightTech Electronics Item 719,Electronics,Brand D,5.03,2.37,SUP0007,Active
+PROD00720,SKU-000720,Apex Books Item 720,Books,Brand C,39.38,26.22,SUP0060,Active
+PROD00721,SKU-000721,HomeNest Home & Kitchen Item 721,Home & Kitchen,Brand B,76.28,35.16,SUP0025,Active
+PROD00722,SKU-000722,HomeNest Sports Item 722,Sports,Brand D,18.7,12.62,SUP0008,Active
+PROD00723,SKU-000723,Nova Fashion Item 723,Fashion,Brand C,42.24,24.28,SUP0002,Active
+PROD00724,SKU-000724,BrightTech Toys Item 724,Toys,Brand D,7.95,4.22,SUP0003,Active
+PROD00725,SKU-000725,HomeNest Beauty Item 725,Beauty,Brand A,50.37,26.2,SUP0025,Active
+PROD00726,SKU-000726,HomeNest Grocery Item 726,Grocery,Brand A,22.81,16.06,SUP0007,Active
+PROD00727,SKU-000727,Apex Books Item 727,Books,Brand A,66.7,40.41,SUP0045,Active
+PROD00728,SKU-000728,Apex Toys Item 728,Toys,Brand D,27.75,16.57,SUP0074,Active
+PROD00729,SKU-000729,Nova Toys Item 729,Toys,Brand B,46.28,21.12,SUP0014,Active
+PROD00730,SKU-000730,Apex Toys Item 730,Toys,Brand A,36.81,19.95,SUP0025,Active
+PROD00731,SKU-000731,Nova Sports Item 731,Sports,Brand B,17.51,11.64,SUP0061,Active
+PROD00732,SKU-000732,BrightTech Fashion Item 732,Fashion,Brand A,32.11,20.04,SUP0007,Active
+PROD00733,SKU-000733,HomeNest Books Item 733,Books,Brand D,23.18,10.51,SUP0058,Active
+PROD00734,SKU-000734,HomeNest Fashion Item 734,Fashion,Brand B,38.47,26.3,SUP0036,Active
+PROD00735,SKU-000735,HomeNest Sports Item 735,Sports,Brand D,22.06,9.6,SUP0032,Active
+PROD00736,SKU-000736,HomeNest Toys Item 736,Toys,Brand B,5.62,3.52,SUP0018,Active
+PROD00737,SKU-000737,BrightTech Fashion Item 737,Fashion,Brand B,38.88,17.33,SUP0001,Active
+PROD00738,SKU-000738,UrbanLeaf Home & Kitchen Item 738,Home & Kitchen,Brand D,76.79,47.45,SUP0008,Active
+PROD00739,SKU-000739,Apex Home & Kitchen Item 739,Home & Kitchen,Brand C,9.11,3.9,SUP0002,Active
+PROD00740,SKU-000740,HomeNest Toys Item 740,Toys,Brand D,10.01,5.28,SUP0041,Active
+PROD00741,SKU-000741,Nova Toys Item 741,Toys,Brand D,109.11,53.71,SUP0060,Active
+PROD00742,SKU-000742,HomeNest Fashion Item 742,Fashion,Brand D,15.22,9.21,SUP0021,Active
+PROD00743,SKU-000743,UrbanLeaf Fashion Item 743,Fashion,Brand C,28.46,16.11,SUP0062,Active
+PROD00744,SKU-000744,BrightTech Toys Item 744,Toys,Brand B,71.8,28.98,SUP0028,Active
+PROD00745,SKU-000745,HomeNest Grocery Item 745,Grocery,Brand C,52.71,24.79,SUP0041,Active
+PROD00746,SKU-000746,Apex Home & Kitchen Item 746,Home & Kitchen,Brand C,17.21,11.11,SUP0079,Active
+PROD00747,SKU-000747,BrightTech Home & Kitchen Item 747,Home & Kitchen,Brand A,94.13,57.8,SUP0076,Active
+PROD00748,SKU-000748,BrightTech Electronics Item 748,Electronics,Brand B,25.2,11.85,SUP0049,Active
+PROD00749,SKU-000749,Nova Sports Item 749,Sports,Brand B,5.69,3.65,SUP0018,Active
+PROD00750,SKU-000750,Apex Toys Item 750,Toys,Brand C,30.61,19.97,SUP0019,Active
+PROD00751,SKU-000751,UrbanLeaf Grocery Item 751,Grocery,Brand B,75.47,39.46,SUP0037,Active
+PROD00752,SKU-000752,HomeNest Sports Item 752,Sports,Brand A,97.77,50.89,SUP0039,Active
+PROD00753,SKU-000753,UrbanLeaf Fashion Item 753,Fashion,Brand C,26.25,10.75,SUP0034,Active
+PROD00754,SKU-000754,Apex Home & Kitchen Item 754,Home & Kitchen,Brand A,13.91,9.04,SUP0034,Active
+PROD00755,SKU-000755,BrightTech Fashion Item 755,Fashion,Brand C,28.57,14.41,SUP0054,Active
+PROD00756,SKU-000756,HomeNest Fashion Item 756,Fashion,Brand A,21.22,11.75,SUP0038,Active
+PROD00757,SKU-000757,HomeNest Electronics Item 757,Electronics,Brand A,26.16,11.91,SUP0077,Active
+PROD00758,SKU-000758,HomeNest Books Item 758,Books,Brand D,14.14,6.87,SUP0001,Active
+PROD00759,SKU-000759,BrightTech Books Item 759,Books,Brand B,13.53,5.91,SUP0054,Active
+PROD00760,SKU-000760,Apex Fashion Item 760,Fashion,Brand A,69.37,42.98,SUP0042,Active
+PROD00761,SKU-000761,UrbanLeaf Books Item 761,Books,Brand C,8.73,4.29,SUP0071,Active
+PROD00762,SKU-000762,BrightTech Beauty Item 762,Beauty,Brand B,196.75,107.45,SUP0026,Active
+PROD00763,SKU-000763,HomeNest Beauty Item 763,Beauty,Brand C,12.22,7.28,SUP0065,Active
+PROD00764,SKU-000764,UrbanLeaf Home & Kitchen Item 764,Home & Kitchen,Brand C,9.56,4.82,SUP0015,Active
+PROD00765,SKU-000765,Apex Electronics Item 765,Electronics,Brand C,39.25,18.9,SUP0018,Active
+PROD00766,SKU-000766,Apex Beauty Item 766,Beauty,Brand B,23.74,11.48,SUP0047,Active
+PROD00767,SKU-000767,Nova Fashion Item 767,Fashion,Brand A,100.94,44.92,SUP0059,Active
+PROD00768,SKU-000768,UrbanLeaf Home & Kitchen Item 768,Home & Kitchen,Brand C,29.15,18.03,SUP0036,Active
+PROD00769,SKU-000769,HomeNest Books Item 769,Books,Brand C,134.21,77.74,SUP0050,Active
+PROD00770,SKU-000770,UrbanLeaf Fashion Item 770,Fashion,Brand C,27.25,19.32,SUP0056,Active
+PROD00771,SKU-000771,HomeNest Toys Item 771,Toys,Brand A,8.15,4.1,SUP0058,Active
+PROD00772,SKU-000772,Nova Beauty Item 772,Beauty,Brand D,22.2,9.85,SUP0059,Active
+PROD00773,SKU-000773,UrbanLeaf Electronics Item 773,Electronics,Brand D,8.41,4.6,SUP0077,Active
+PROD00774,SKU-000774,UrbanLeaf Home & Kitchen Item 774,Home & Kitchen,Brand B,10.11,6.12,SUP0041,Active
+PROD00775,SKU-000775,Nova Home & Kitchen Item 775,Home & Kitchen,Brand A,11.52,5.24,SUP0012,Active
+PROD00776,SKU-000776,Apex Sports Item 776,Sports,Brand C,45.83,21.26,SUP0029,Active
+PROD00777,SKU-000777,UrbanLeaf Sports Item 777,Sports,Brand D,5.27,2.17,SUP0020,Active
+PROD00778,SKU-000778,HomeNest Beauty Item 778,Beauty,Brand D,23.06,11.38,SUP0018,Active
+PROD00779,SKU-000779,HomeNest Beauty Item 779,Beauty,Brand D,49.69,35.62,SUP0040,Active
+PROD00780,SKU-000780,HomeNest Beauty Item 780,Beauty,Brand C,48.85,30.22,SUP0057,Active
+PROD00781,SKU-000781,UrbanLeaf Sports Item 781,Sports,Brand A,49.29,31.02,SUP0059,Active
+PROD00782,SKU-000782,HomeNest Electronics Item 782,Electronics,Brand B,92.86,39.64,SUP0050,Active
+PROD00783,SKU-000783,HomeNest Home & Kitchen Item 783,Home & Kitchen,Brand D,7.89,5.15,SUP0021,Active
+PROD00784,SKU-000784,BrightTech Beauty Item 784,Beauty,Brand B,10.02,4.53,SUP0055,Active
+PROD00785,SKU-000785,HomeNest Electronics Item 785,Electronics,Brand A,294.29,178.71,SUP0006,Active
+PROD00786,SKU-000786,Apex Sports Item 786,Sports,Brand C,116.25,55.03,SUP0079,Active
+PROD00787,SKU-000787,BrightTech Home & Kitchen Item 787,Home & Kitchen,Brand B,43.31,27.7,SUP0058,Active
+PROD00788,SKU-000788,Nova Fashion Item 788,Fashion,Brand B,232.24,115.98,SUP0042,Active
+PROD00789,SKU-000789,HomeNest Sports Item 789,Sports,Brand C,147.38,64.9,SUP0045,Active
+PROD00790,SKU-000790,UrbanLeaf Beauty Item 790,Beauty,Brand A,58.4,28.19,SUP0024,Active
+PROD00791,SKU-000791,BrightTech Books Item 791,Books,Brand D,32.71,15.7,SUP0065,Active
+PROD00792,SKU-000792,Nova Home & Kitchen Item 792,Home & Kitchen,Brand B,51.6,24.13,SUP0055,Active
+PROD00793,SKU-000793,Apex Toys Item 793,Toys,Brand A,18.48,13.04,SUP0080,Active
+PROD00794,SKU-000794,Apex Fashion Item 794,Fashion,Brand A,46.58,26.63,SUP0076,Active
+PROD00795,SKU-000795,BrightTech Beauty Item 795,Beauty,Brand B,48.29,26.56,SUP0043,Active
+PROD00796,SKU-000796,BrightTech Beauty Item 796,Beauty,Brand A,23.28,14.03,SUP0026,Active
+PROD00797,SKU-000797,UrbanLeaf Fashion Item 797,Fashion,Brand A,40.93,29.37,SUP0025,Active
+PROD00798,SKU-000798,BrightTech Grocery Item 798,Grocery,Brand C,34.54,19.98,SUP0056,Active
+PROD00799,SKU-000799,HomeNest Sports Item 799,Sports,Brand D,25.03,11.58,SUP0008,Active
+PROD00800,SKU-000800,HomeNest Fashion Item 800,Fashion,Brand A,26.92,17.69,SUP0023,Active
+PROD00801,SKU-000801,BrightTech Books Item 801,Books,Brand A,29.32,16.14,SUP0032,Active
+PROD00802,SKU-000802,Nova Beauty Item 802,Beauty,Brand C,94.18,61.52,SUP0078,Active
+PROD00803,SKU-000803,Nova Electronics Item 803,Electronics,Brand C,48.03,33.73,SUP0076,Active
+PROD00804,SKU-000804,HomeNest Sports Item 804,Sports,Brand A,17.37,7.28,SUP0064,Active
+PROD00805,SKU-000805,Apex Fashion Item 805,Fashion,Brand A,91.04,49.37,SUP0055,Active
+PROD00806,SKU-000806,Apex Sports Item 806,Sports,Brand B,92.58,38.78,SUP0022,Active
+PROD00807,SKU-000807,Nova Books Item 807,Books,Brand C,20.5,10.51,SUP0074,Active
+PROD00808,SKU-000808,UrbanLeaf Toys Item 808,Toys,Brand B,9.93,4.85,SUP0021,Active
+PROD00809,SKU-000809,Nova Home & Kitchen Item 809,Home & Kitchen,Brand A,141.53,67.77,SUP0039,Active
+PROD00810,SKU-000810,UrbanLeaf Fashion Item 810,Fashion,Brand C,16.86,7.18,SUP0055,Active
+PROD00811,SKU-000811,BrightTech Grocery Item 811,Grocery,Brand B,147.95,99.5,SUP0061,Active
+PROD00812,SKU-000812,HomeNest Fashion Item 812,Fashion,Brand A,77.81,44.88,SUP0078,Active
+PROD00813,SKU-000813,BrightTech Books Item 813,Books,Brand A,16.38,6.94,SUP0038,Active
+PROD00814,SKU-000814,Apex Fashion Item 814,Fashion,Brand D,20.34,14.35,SUP0016,Active
+PROD00815,SKU-000815,Nova Sports Item 815,Sports,Brand D,58.42,33.44,SUP0063,Active
+PROD00816,SKU-000816,UrbanLeaf Books Item 816,Books,Brand B,42.81,17.77,SUP0080,Active
+PROD00817,SKU-000817,UrbanLeaf Electronics Item 817,Electronics,Brand C,40.7,19.21,SUP0033,Active
+PROD00818,SKU-000818,HomeNest Beauty Item 818,Beauty,Brand A,58.55,34.36,SUP0040,Active
+PROD00819,SKU-000819,Nova Electronics Item 819,Electronics,Brand D,37.08,22.97,SUP0028,Active
+PROD00820,SKU-000820,Nova Electronics Item 820,Electronics,Brand A,89.02,36.56,SUP0018,Active
+PROD00821,SKU-000821,Apex Grocery Item 821,Grocery,Brand D,44.18,26.54,SUP0026,Active
+PROD00822,SKU-000822,BrightTech Electronics Item 822,Electronics,Brand D,14.36,7.75,SUP0017,Active
+PROD00823,SKU-000823,Apex Sports Item 823,Sports,Brand C,22.75,16.26,SUP0014,Active
+PROD00824,SKU-000824,Apex Grocery Item 824,Grocery,Brand C,56.36,27.2,SUP0010,Active
+PROD00825,SKU-000825,Apex Toys Item 825,Toys,Brand B,4.92,2.83,SUP0038,Active
+PROD00826,SKU-000826,Nova Electronics Item 826,Electronics,Brand D,31.31,20.92,SUP0069,Active
+PROD00827,SKU-000827,Nova Electronics Item 827,Electronics,Brand C,49.51,34.35,SUP0065,Active
+PROD00828,SKU-000828,UrbanLeaf Beauty Item 828,Beauty,Brand B,39.45,17.43,SUP0064,Active
+PROD00829,SKU-000829,UrbanLeaf Electronics Item 829,Electronics,Brand B,31.42,19.31,SUP0008,Active
+PROD00830,SKU-000830,UrbanLeaf Home & Kitchen Item 830,Home & Kitchen,Brand D,46.06,29.67,SUP0011,Active
+PROD00831,SKU-000831,UrbanLeaf Home & Kitchen Item 831,Home & Kitchen,Brand A,86.22,42.74,SUP0057,Active
+PROD00832,SKU-000832,BrightTech Sports Item 832,Sports,Brand D,247.7,120.78,SUP0035,Active
+PROD00833,SKU-000833,UrbanLeaf Electronics Item 833,Electronics,Brand D,36.75,16.17,SUP0020,Active
+PROD00834,SKU-000834,BrightTech Sports Item 834,Sports,Brand C,19.78,8.76,SUP0054,Active
+PROD00835,SKU-000835,UrbanLeaf Grocery Item 835,Grocery,Brand A,53.63,33.53,SUP0007,Active
+PROD00836,SKU-000836,BrightTech Books Item 836,Books,Brand B,66.59,30.93,SUP0063,Active
+PROD00837,SKU-000837,UrbanLeaf Home & Kitchen Item 837,Home & Kitchen,Brand A,51.75,31.06,SUP0067,Active
+PROD00838,SKU-000838,HomeNest Grocery Item 838,Grocery,Brand C,26.19,18.23,SUP0021,Active
+PROD00839,SKU-000839,Nova Fashion Item 839,Fashion,Brand B,13.24,6.47,SUP0047,Active
+PROD00840,SKU-000840,Apex Grocery Item 840,Grocery,Brand A,31.55,17.69,SUP0019,Active
+PROD00841,SKU-000841,Apex Electronics Item 841,Electronics,Brand A,19.67,13.08,SUP0004,Active
+PROD00842,SKU-000842,HomeNest Books Item 842,Books,Brand D,26.12,13.33,SUP0061,Active
+PROD00843,SKU-000843,Nova Toys Item 843,Toys,Brand C,58.64,41.91,SUP0014,Active
+PROD00844,SKU-000844,Nova Home & Kitchen Item 844,Home & Kitchen,Brand C,16.26,9.84,SUP0071,Active
+PROD00845,SKU-000845,BrightTech Books Item 845,Books,Brand A,3.0,1.69,SUP0062,Active
+PROD00846,SKU-000846,Apex Sports Item 846,Sports,Brand C,32.03,15.95,SUP0037,Active
+PROD00847,SKU-000847,BrightTech Home & Kitchen Item 847,Home & Kitchen,Brand A,167.41,71.71,SUP0043,Active
+PROD00848,SKU-000848,BrightTech Electronics Item 848,Electronics,Brand B,28.4,16.94,SUP0025,Active
+PROD00849,SKU-000849,BrightTech Grocery Item 849,Grocery,Brand C,51.11,32.69,SUP0038,Active
+PROD00850,SKU-000850,BrightTech Toys Item 850,Toys,Brand B,79.53,45.0,SUP0034,Active
+PROD00851,SKU-000851,Apex Electronics Item 851,Electronics,Brand D,14.94,8.76,SUP0020,Active
+PROD00852,SKU-000852,Apex Electronics Item 852,Electronics,Brand D,37.71,25.4,SUP0061,Active
+PROD00853,SKU-000853,Apex Toys Item 853,Toys,Brand A,40.85,23.05,SUP0017,Active
+PROD00854,SKU-000854,Nova Home & Kitchen Item 854,Home & Kitchen,Brand C,16.64,9.72,SUP0070,Active
+PROD00855,SKU-000855,BrightTech Books Item 855,Books,Brand C,142.97,62.17,SUP0015,Active
+PROD00856,SKU-000856,Apex Grocery Item 856,Grocery,Brand A,143.66,61.35,SUP0056,Active
+PROD00857,SKU-000857,UrbanLeaf Toys Item 857,Toys,Brand D,15.0,10.3,SUP0036,Active
+PROD00858,SKU-000858,Apex Fashion Item 858,Fashion,Brand C,27.69,16.0,SUP0023,Active
+PROD00859,SKU-000859,BrightTech Electronics Item 859,Electronics,Brand C,35.16,19.66,SUP0067,Active
+PROD00860,SKU-000860,UrbanLeaf Fashion Item 860,Fashion,Brand A,32.45,18.64,SUP0028,Active
+PROD00861,SKU-000861,Nova Grocery Item 861,Grocery,Brand A,36.27,18.34,SUP0044,Active
+PROD00862,SKU-000862,Apex Fashion Item 862,Fashion,Brand D,124.06,79.83,SUP0024,Active
+PROD00863,SKU-000863,HomeNest Fashion Item 863,Fashion,Brand A,77.09,31.55,SUP0046,Active
+PROD00864,SKU-000864,Nova Electronics Item 864,Electronics,Brand C,19.29,9.83,SUP0016,Active
+PROD00865,SKU-000865,UrbanLeaf Grocery Item 865,Grocery,Brand A,28.92,17.7,SUP0023,Active
+PROD00866,SKU-000866,Apex Home & Kitchen Item 866,Home & Kitchen,Brand C,10.84,7.46,SUP0029,Active
+PROD00867,SKU-000867,Nova Fashion Item 867,Fashion,Brand C,49.47,30.34,SUP0004,Active
+PROD00868,SKU-000868,Apex Grocery Item 868,Grocery,Brand C,29.76,20.39,SUP0018,Active
+PROD00869,SKU-000869,Apex Grocery Item 869,Grocery,Brand D,26.45,17.41,SUP0038,Active
+PROD00870,SKU-000870,UrbanLeaf Home & Kitchen Item 870,Home & Kitchen,Brand C,97.59,39.64,SUP0010,Active
+PROD00871,SKU-000871,Nova Books Item 871,Books,Brand C,214.57,132.19,SUP0055,Active
+PROD00872,SKU-000872,Nova Sports Item 872,Sports,Brand B,64.98,41.42,SUP0035,Active
+PROD00873,SKU-000873,Nova Toys Item 873,Toys,Brand A,45.18,20.81,SUP0067,Active
+PROD00874,SKU-000874,BrightTech Electronics Item 874,Electronics,Brand B,33.81,16.02,SUP0012,Active
+PROD00875,SKU-000875,Nova Home & Kitchen Item 875,Home & Kitchen,Brand C,24.74,11.51,SUP0003,Active
+PROD00876,SKU-000876,BrightTech Home & Kitchen Item 876,Home & Kitchen,Brand C,116.36,82.45,SUP0016,Active
+PROD00877,SKU-000877,HomeNest Fashion Item 877,Fashion,Brand D,17.73,10.17,SUP0011,Active
+PROD00878,SKU-000878,Nova Fashion Item 878,Fashion,Brand A,15.49,8.43,SUP0007,Active
+PROD00879,SKU-000879,BrightTech Sports Item 879,Sports,Brand B,23.17,12.93,SUP0076,Active
+PROD00880,SKU-000880,UrbanLeaf Home & Kitchen Item 880,Home & Kitchen,Brand A,81.27,54.18,SUP0054,Active
+PROD00881,SKU-000881,UrbanLeaf Books Item 881,Books,Brand B,43.97,22.85,SUP0009,Active
+PROD00882,SKU-000882,Nova Books Item 882,Books,Brand B,22.39,9.1,SUP0078,Active
+PROD00883,SKU-000883,HomeNest Fashion Item 883,Fashion,Brand D,41.84,24.78,SUP0037,Active
+PROD00884,SKU-000884,BrightTech Sports Item 884,Sports,Brand A,22.78,10.07,SUP0009,Active
+PROD00885,SKU-000885,Nova Electronics Item 885,Electronics,Brand A,23.11,12.66,SUP0001,Active
+PROD00886,SKU-000886,Apex Fashion Item 886,Fashion,Brand B,28.76,17.08,SUP0005,Active
+PROD00887,SKU-000887,Nova Beauty Item 887,Beauty,Brand A,15.47,10.87,SUP0017,Active
+PROD00888,SKU-000888,HomeNest Books Item 888,Books,Brand D,23.23,10.33,SUP0007,Active
+PROD00889,SKU-000889,UrbanLeaf Grocery Item 889,Grocery,Brand D,55.48,31.52,SUP0035,Active
+PROD00890,SKU-000890,Apex Toys Item 890,Toys,Brand B,20.33,14.36,SUP0001,Active
+PROD00891,SKU-000891,BrightTech Beauty Item 891,Beauty,Brand B,25.94,16.63,SUP0056,Active
+PROD00892,SKU-000892,BrightTech Books Item 892,Books,Brand C,69.42,41.48,SUP0062,Active
+PROD00893,SKU-000893,UrbanLeaf Fashion Item 893,Fashion,Brand B,19.4,11.69,SUP0069,Active
+PROD00894,SKU-000894,UrbanLeaf Sports Item 894,Sports,Brand D,114.49,55.35,SUP0059,Active
+PROD00895,SKU-000895,Apex Home & Kitchen Item 895,Home & Kitchen,Brand A,27.54,18.83,SUP0050,Active
+PROD00896,SKU-000896,UrbanLeaf Toys Item 896,Toys,Brand A,19.49,12.36,SUP0041,Active
+PROD00897,SKU-000897,Apex Grocery Item 897,Grocery,Brand A,58.62,27.05,SUP0003,Active
+PROD00898,SKU-000898,BrightTech Grocery Item 898,Grocery,Brand C,19.45,8.19,SUP0023,Active
+PROD00899,SKU-000899,BrightTech Electronics Item 899,Electronics,Brand C,49.63,20.64,SUP0049,Active
+PROD00900,SKU-000900,BrightTech Home & Kitchen Item 900,Home & Kitchen,Brand A,18.79,12.55,SUP0074,Active
+PROD00901,SKU-000901,BrightTech Books Item 901,Books,Brand B,16.08,10.04,SUP0039,Active
+PROD00902,SKU-000902,Apex Books Item 902,Books,Brand C,13.71,8.76,SUP0042,Active
+PROD00903,SKU-000903,HomeNest Toys Item 903,Toys,Brand B,121.15,80.62,SUP0072,Active
+PROD00904,SKU-000904,Nova Fashion Item 904,Fashion,Brand D,50.19,27.73,SUP0040,Active
+PROD00905,SKU-000905,HomeNest Home & Kitchen Item 905,Home & Kitchen,Brand C,30.92,15.31,SUP0029,Active
+PROD00906,SKU-000906,Nova Fashion Item 906,Fashion,Brand C,104.06,65.93,SUP0005,Active
+PROD00907,SKU-000907,UrbanLeaf Fashion Item 907,Fashion,Brand D,17.88,12.31,SUP0049,Active
+PROD00908,SKU-000908,UrbanLeaf Fashion Item 908,Fashion,Brand C,27.0,14.96,SUP0007,Active
+PROD00909,SKU-000909,Nova Grocery Item 909,Grocery,Brand C,13.41,5.81,SUP0076,Active
+PROD00910,SKU-000910,UrbanLeaf Grocery Item 910,Grocery,Brand B,24.11,11.65,SUP0005,Active
+PROD00911,SKU-000911,UrbanLeaf Books Item 911,Books,Brand B,20.23,9.05,SUP0032,Active
+PROD00912,SKU-000912,Apex Grocery Item 912,Grocery,Brand B,26.9,11.73,SUP0002,Active
+PROD00913,SKU-000913,HomeNest Fashion Item 913,Fashion,Brand B,29.32,15.94,SUP0053,Active
+PROD00914,SKU-000914,BrightTech Home & Kitchen Item 914,Home & Kitchen,Brand C,12.55,8.01,SUP0050,Active
+PROD00915,SKU-000915,UrbanLeaf Home & Kitchen Item 915,Home & Kitchen,Brand D,48.42,32.86,SUP0010,Active
+PROD00916,SKU-000916,BrightTech Home & Kitchen Item 916,Home & Kitchen,Brand A,52.48,29.11,SUP0011,Active
+PROD00917,SKU-000917,Nova Home & Kitchen Item 917,Home & Kitchen,Brand B,48.5,23.09,SUP0045,Active
+PROD00918,SKU-000918,HomeNest Fashion Item 918,Fashion,Brand B,56.51,31.03,SUP0011,Active
+PROD00919,SKU-000919,UrbanLeaf Books Item 919,Books,Brand A,16.61,7.33,SUP0059,Active
+PROD00920,SKU-000920,UrbanLeaf Beauty Item 920,Beauty,Brand B,31.55,14.47,SUP0048,Active
+PROD00921,SKU-000921,UrbanLeaf Electronics Item 921,Electronics,Brand C,26.69,10.93,SUP0048,Active
+PROD00922,SKU-000922,BrightTech Toys Item 922,Toys,Brand A,17.23,8.09,SUP0015,Active
+PROD00923,SKU-000923,Nova Beauty Item 923,Beauty,Brand C,55.11,31.86,SUP0010,Active
+PROD00924,SKU-000924,HomeNest Grocery Item 924,Grocery,Brand B,77.57,50.42,SUP0056,Active
+PROD00925,SKU-000925,Apex Grocery Item 925,Grocery,Brand A,15.65,9.38,SUP0023,Active
+PROD00926,SKU-000926,Nova Beauty Item 926,Beauty,Brand B,12.9,5.22,SUP0047,Active
+PROD00927,SKU-000927,Nova Sports Item 927,Sports,Brand B,29.34,12.94,SUP0003,Active
+PROD00928,SKU-000928,Nova Electronics Item 928,Electronics,Brand A,13.47,5.4,SUP0018,Active
+PROD00929,SKU-000929,Apex Fashion Item 929,Fashion,Brand A,18.0,8.09,SUP0022,Active
+PROD00930,SKU-000930,HomeNest Sports Item 930,Sports,Brand C,23.9,12.55,SUP0046,Active
+PROD00931,SKU-000931,Apex Sports Item 931,Sports,Brand A,67.46,36.49,SUP0051,Active
+PROD00932,SKU-000932,Apex Sports Item 932,Sports,Brand D,12.83,5.87,SUP0073,Active
+PROD00933,SKU-000933,BrightTech Toys Item 933,Toys,Brand A,38.81,17.92,SUP0024,Active
+PROD00934,SKU-000934,UrbanLeaf Grocery Item 934,Grocery,Brand B,57.01,29.85,SUP0040,Active
+PROD00935,SKU-000935,HomeNest Home & Kitchen Item 935,Home & Kitchen,Brand D,11.58,7.47,SUP0024,Active
+PROD00936,SKU-000936,Apex Electronics Item 936,Electronics,Brand D,7.7,3.97,SUP0045,Active
+PROD00937,SKU-000937,UrbanLeaf Electronics Item 937,Electronics,Brand D,21.48,14.29,SUP0004,Active
+PROD00938,SKU-000938,BrightTech Books Item 938,Books,Brand D,68.05,27.7,SUP0001,Active
+PROD00939,SKU-000939,Apex Toys Item 939,Toys,Brand C,44.91,23.07,SUP0061,Active
+PROD00940,SKU-000940,BrightTech Books Item 940,Books,Brand D,380.44,165.35,SUP0026,Active
+PROD00941,SKU-000941,Nova Sports Item 941,Sports,Brand A,36.47,23.63,SUP0046,Active
+PROD00942,SKU-000942,UrbanLeaf Beauty Item 942,Beauty,Brand A,42.73,18.22,SUP0037,Active
+PROD00943,SKU-000943,HomeNest Toys Item 943,Toys,Brand C,25.33,13.0,SUP0026,Active
+PROD00944,SKU-000944,HomeNest Books Item 944,Books,Brand B,76.26,54.42,SUP0037,Active
+PROD00945,SKU-000945,HomeNest Toys Item 945,Toys,Brand B,40.13,21.72,SUP0060,Active
+PROD00946,SKU-000946,BrightTech Beauty Item 946,Beauty,Brand D,20.09,8.57,SUP0057,Active
+PROD00947,SKU-000947,Nova Electronics Item 947,Electronics,Brand D,35.43,20.44,SUP0005,Active
+PROD00948,SKU-000948,Nova Fashion Item 948,Fashion,Brand C,3.0,1.89,SUP0068,Active
+PROD00949,SKU-000949,UrbanLeaf Toys Item 949,Toys,Brand A,53.76,36.91,SUP0069,Active
+PROD00950,SKU-000950,Apex Grocery Item 950,Grocery,Brand B,84.8,48.13,SUP0018,Active
+PROD00951,SKU-000951,Nova Electronics Item 951,Electronics,Brand A,24.83,12.68,SUP0075,Active
+PROD00952,SKU-000952,HomeNest Home & Kitchen Item 952,Home & Kitchen,Brand A,11.98,7.89,SUP0018,Active
+PROD00953,SKU-000953,Apex Sports Item 953,Sports,Brand B,27.08,14.38,SUP0017,Active
+PROD00954,SKU-000954,BrightTech Grocery Item 954,Grocery,Brand B,18.77,7.92,SUP0034,Active
+PROD00955,SKU-000955,Apex Beauty Item 955,Beauty,Brand B,37.71,22.34,SUP0042,Active
+PROD00956,SKU-000956,UrbanLeaf Fashion Item 956,Fashion,Brand B,53.6,26.25,SUP0078,Active
+PROD00957,SKU-000957,Nova Beauty Item 957,Beauty,Brand D,27.94,19.99,SUP0024,Active
+PROD00958,SKU-000958,HomeNest Fashion Item 958,Fashion,Brand D,51.88,26.5,SUP0073,Active
+PROD00959,SKU-000959,UrbanLeaf Toys Item 959,Toys,Brand C,36.03,21.31,SUP0010,Active
+PROD00960,SKU-000960,BrightTech Books Item 960,Books,Brand D,47.64,20.36,SUP0001,Active
+PROD00961,SKU-000961,HomeNest Electronics Item 961,Electronics,Brand A,18.19,9.05,SUP0021,Active
+PROD00962,SKU-000962,BrightTech Fashion Item 962,Fashion,Brand C,28.56,11.92,SUP0078,Active
+PROD00963,SKU-000963,Nova Fashion Item 963,Fashion,Brand A,6.23,3.36,SUP0022,Active
+PROD00964,SKU-000964,HomeNest Grocery Item 964,Grocery,Brand D,31.09,13.08,SUP0061,Active
+PROD00965,SKU-000965,Apex Home & Kitchen Item 965,Home & Kitchen,Brand A,68.66,28.74,SUP0030,Active
+PROD00966,SKU-000966,HomeNest Beauty Item 966,Beauty,Brand A,48.32,30.95,SUP0059,Active
+PROD00967,SKU-000967,UrbanLeaf Grocery Item 967,Grocery,Brand D,28.46,13.28,SUP0013,Active
+PROD00968,SKU-000968,Apex Electronics Item 968,Electronics,Brand D,38.62,16.2,SUP0004,Active
+PROD00969,SKU-000969,Apex Sports Item 969,Sports,Brand B,69.07,40.05,SUP0042,Active
+PROD00970,SKU-000970,Apex Books Item 970,Books,Brand C,29.02,18.2,SUP0007,Active
+PROD00971,SKU-000971,BrightTech Grocery Item 971,Grocery,Brand C,33.75,20.4,SUP0005,Active
+PROD00972,SKU-000972,BrightTech Books Item 972,Books,Brand B,26.21,14.47,SUP0061,Active
+PROD00973,SKU-000973,Nova Toys Item 973,Toys,Brand C,74.28,42.3,SUP0063,Active
+PROD00974,SKU-000974,BrightTech Toys Item 974,Toys,Brand D,105.26,70.32,SUP0041,Active
+PROD00975,SKU-000975,Nova Grocery Item 975,Grocery,Brand A,16.17,8.62,SUP0067,Active
+PROD00976,SKU-000976,HomeNest Grocery Item 976,Grocery,Brand A,51.74,32.07,SUP0065,Active
+PROD00977,SKU-000977,HomeNest Fashion Item 977,Fashion,Brand C,19.48,8.39,SUP0058,Active
+PROD00978,SKU-000978,UrbanLeaf Sports Item 978,Sports,Brand A,55.75,27.95,SUP0043,Active
+PROD00979,SKU-000979,Apex Electronics Item 979,Electronics,Brand D,7.45,4.79,SUP0010,Active
+PROD00980,SKU-000980,BrightTech Sports Item 980,Sports,Brand C,8.79,4.23,SUP0063,Active
+PROD00981,SKU-000981,UrbanLeaf Home & Kitchen Item 981,Home & Kitchen,Brand C,25.7,11.25,SUP0070,Active
+PROD00982,SKU-000982,HomeNest Beauty Item 982,Beauty,Brand B,55.94,35.83,SUP0031,Active
+PROD00983,SKU-000983,HomeNest Books Item 983,Books,Brand D,21.7,10.16,SUP0073,Active
+PROD00984,SKU-000984,UrbanLeaf Electronics Item 984,Electronics,Brand C,63.66,40.59,SUP0040,Active
+PROD00985,SKU-000985,HomeNest Books Item 985,Books,Brand A,12.89,5.98,SUP0011,Active
+PROD00986,SKU-000986,BrightTech Fashion Item 986,Fashion,Brand A,8.76,3.78,SUP0020,Active
+PROD00987,SKU-000987,Nova Books Item 987,Books,Brand B,48.14,21.31,SUP0027,Active
+PROD00988,SKU-000988,HomeNest Toys Item 988,Toys,Brand B,90.58,58.49,SUP0038,Active
+PROD00989,SKU-000989,HomeNest Sports Item 989,Sports,Brand D,11.02,7.31,SUP0001,Active
+PROD00990,SKU-000990,BrightTech Sports Item 990,Sports,Brand D,91.43,64.0,SUP0069,Active
+PROD00991,SKU-000991,BrightTech Toys Item 991,Toys,Brand C,83.46,53.89,SUP0062,Active
+PROD00992,SKU-000992,Apex Grocery Item 992,Grocery,Brand D,15.06,10.72,SUP0047,Active
+PROD00993,SKU-000993,Apex Beauty Item 993,Beauty,Brand A,33.74,16.12,SUP0060,Active
+PROD00994,SKU-000994,UrbanLeaf Fashion Item 994,Fashion,Brand D,23.68,16.97,SUP0020,Active
+PROD00995,SKU-000995,UrbanLeaf Toys Item 995,Toys,Brand C,13.76,9.78,SUP0043,Active
+PROD00996,SKU-000996,Apex Fashion Item 996,Fashion,Brand C,26.33,18.18,SUP0022,Active
+PROD00997,SKU-000997,UrbanLeaf Sports Item 997,Sports,Brand C,19.2,11.16,SUP0047,Active
+PROD00998,SKU-000998,BrightTech Toys Item 998,Toys,Brand D,138.4,93.73,SUP0077,Active
+PROD00999,SKU-000999,HomeNest Electronics Item 999,Electronics,Brand A,8.6,4.5,SUP0071,Active
+PROD01000,SKU-001000,HomeNest Toys Item 1000,Toys,Brand A,57.85,24.52,SUP0003,Active
