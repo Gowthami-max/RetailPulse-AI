@@ -1034,99 +1034,108 @@ elif page == "Model Performance & Tracking":
     st.title("Model Performance & Tracking")
 
     st.markdown(
-        "Monitor and compare machine learning experiments "
-        "using MLflow tracking."
+        "Monitor RetailPulse model evaluation and "
+        "data processing performance."
     )
 
-    try:
-        import mlflow
+    output_dir = PROJECT_ROOT / "models" / "outputs"
 
-        mlflow.set_tracking_uri("http://127.0.0.1:5000")
+    summary_file = output_dir / "performance_summary.json"
+    results_file = output_dir / "performance_test_results.csv"
 
-        experiment = mlflow.get_experiment_by_name(
-            "RetailPulse Demand Forecasting"
+    if summary_file.exists() and results_file.exists():
+
+        import json
+
+        with open(summary_file, "r") as f:
+            summary = json.load(f)
+
+        results = pd.read_csv(results_file)
+
+        st.subheader("Data Processing Performance")
+
+        c1, c2, c3, c4 = st.columns(4)
+
+        c1.metric(
+            "Files Processed",
+            summary["total_files_processed"]
         )
 
-        if experiment is None:
-            st.warning("No MLflow experiment found.")
-        else:
-            runs = mlflow.search_runs(
-                experiment_ids=[experiment.experiment_id],
-                order_by=["metrics.MAPE ASC"]
-            )
-
-            if runs.empty:
-                st.info("No experiment results available.")
-            else:
-                display = pd.DataFrame({
-                    "Model": runs["tags.mlflow.runName"],
-                    "MAE": runs["metrics.MAE"],
-                    "RMSE": runs["metrics.RMSE"],
-                    "MAPE (%)": runs["metrics.MAPE"],
-                    "WAPE (%)": runs["metrics.WAPE"]
-                })
-
-                display = display.sort_values("MAPE (%)")
-
-                best = display.iloc[0]
-
-                c1, c2, c3 = st.columns(3)
-
-                c1.metric("Best Model", best["Model"])
-                c2.metric("Best MAPE", f"{best['MAPE (%)']:.2f}%")
-                c3.metric("Best WAPE", f"{best['WAPE (%)']:.2f}%")
-
-                st.markdown("---")
-
-                st.subheader("Forecasting Model Comparison")
-
-                st.dataframe(
-                    display,
-                    use_container_width=True,
-                    hide_index=True
-                )
-
-                st.subheader("MAPE Comparison")
-
-                chart_data = display.sort_values("MAPE (%)")
-
-                fig = px.bar(
-                    chart_data,
-                    x="Model",
-                    y="MAPE (%)",
-                    title="Model Forecasting Error Comparison",
-                    text_auto=".2f"
-                )
-
-                fig.add_hline(
-                    y=12,
-                    line_dash="dash",
-                    annotation_text="ZIDIO Target: 12%"
-                )
-
-                st.plotly_chart(
-                    fig,
-                    use_container_width=True
-                )
-
-                st.download_button(
-                    "Download Model Comparison",
-                    display.to_csv(index=False).encode("utf-8"),
-                    "retailpulse_model_comparison.csv",
-                    "text/csv"
-                )
-
-                st.caption(
-                    "Metrics are based on five-fold rolling "
-                    "validation experiments logged in MLflow."
-                )
-
-    except Exception as e:
-        st.error(f"Unable to load MLflow results: {e}")
-        st.info(
-            "Please ensure the MLflow tracking server is running "
-            "on port 5000."
+        c2.metric(
+            "Processing Time",
+            f'{summary["total_processing_time_seconds"]:.3f} sec'
         )
 
+        c3.metric(
+            "Target Time",
+            f'{summary["target_seconds"]} sec'
+        )
+
+        c4.metric(
+            "Target Status",
+            "Achieved" if summary["target_met"] else "Not Achieved"
+        )
+
+        st.markdown("---")
+
+        st.subheader("File Processing Results")
+
+        st.dataframe(
+            results,
+            use_container_width=True,
+            hide_index=True
+        )
+
+        st.subheader("Processing Time Comparison")
+
+        fig = px.bar(
+            results,
+            x="File",
+            y="Processing_Time_Seconds",
+            color="Status",
+            title="Processing Time by Dataset",
+            text_auto=".3f"
+        )
+
+        st.plotly_chart(
+            fig,
+            use_container_width=True
+        )
+
+        st.subheader("Dataset Processing Summary")
+
+        c1, c2, c3 = st.columns(3)
+
+        c1.metric(
+            "Total Rows Processed",
+            f'{results["Rows"].sum():,}'
+        )
+
+        c2.metric(
+            "Total Columns",
+            f'{results["Columns"].sum():,}'
+        )
+
+        c3.metric(
+            "Successful Files",
+            f'{(results["Status"] == "SUCCESS").sum()}'
+        )
+
+        st.download_button(
+            "Download Performance Results",
+            results.to_csv(index=False).encode("utf-8"),
+            "retailpulse_performance_results.csv",
+            "text/csv"
+        )
+
+        st.caption(
+            "Results represent the saved CSV processing benchmark. "
+            "They are not machine learning accuracy metrics."
+        )
+
+    else:
+        st.warning(
+            "Performance result files are not available."
+        )
 st.markdown("---")
 st.caption("RetailPulse · Dataset-aligned analytics | Synthetic demonstration data. Simulated records are not real customer transactions.")
