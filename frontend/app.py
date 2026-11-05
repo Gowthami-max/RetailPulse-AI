@@ -196,13 +196,13 @@ def metric_row():
 
 def chart(fig, height=360):
     fig.update_layout(**PLOT_LAYOUT, height=height)
-    st.plotly_chart(fig, use_container_width=True, config={"displaylogo":False})
+    st.plotly_chart(fig, width="stretch", config={"displaylogo":False})
 
 def show_table(df, height=380):
     if df is None or df.empty:
         st.info("No records match the current filters.")
     else:
-        st.dataframe(df, use_container_width=True, height=height, hide_index=True)
+        st.dataframe(df, width="stretch", height=height, hide_index=True)
 
 def section(title, subtitle=None):
     st.markdown(f"### {title}")
@@ -1082,7 +1082,7 @@ elif page == "Model Performance & Tracking":
 
         st.dataframe(
             results,
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -1099,7 +1099,7 @@ elif page == "Model Performance & Tracking":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            width="stretch"
         )
 
         st.subheader("Dataset Processing Summary")
